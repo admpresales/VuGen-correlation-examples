@@ -1,0 +1,283 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Load Runner Tips- Performance testing, load testing, stress testing, soak testing, endurances testing tool,VuGen script creation, Load Runner Correlation, LR Scripting, Load Runner parameterization, Load Runner transaction naming,LR think time, LR transaction, web reg save param, Web reg find, Lr pacing  </title>
+    
+    <meta name="keywords" content="Performances testing, LoadRunner , LR testing, performances tuning,  performances monitoring, LoadRunner Correlation practice, LR Correlation practice, LoadRunner Correlation Challenge, LR Correlation Challenge, Loadrunner, LR, Correlation, VeGen, LR scripting, LoadRunner Scripting Correlation practice, LR Scripting Correlation practice, Correlation, LoadRunner, Vugen, Components, Scenario, Analysis, Load Generator, Virtual User Generator" />
+    <meta name="description" content="LoadRunnertips.com  WILL PROVIDE YOU ALL THE INFORMATION ABOUT THE LOAD RUNNER AND PERFORMANCE TESTING, Loadrunner Tips, Performnaces " />	
+    <link href="JS/StyleSheet.css" rel="stylesheet" type="text/css" />
+   <script>
+       (function (i, s, o, g, r, a, m) {
+           i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+               (i[r].q = i[r].q || []).push(arguments)
+           }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+       })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+       ga('create', 'UA-54539864-2', 'auto');
+       ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+
+<div class="divPageHeader">
+        <table  cellspacing="0" cellpadding="0" class="tbMenu">
+            <tr>
+                <td width="20%">
+                    
+                    <img src="IMG/LR.gif" />
+           </td>
+                <td width="60%" valign="top" align="left">
+                    <ul id="trans-nav" >
+                        <li><a href="Index.htm">Home</a></li>
+                         <li><a href="">Training</a>
+                                 <ul>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Load Runner</a></li>
+                                <li><a href="VuGen/Load_Runner_VuGen_Home.htm">VuGen</a></li>
+                                <li><a href="Controller/Controller.htm">Controller</a></li>
+                                <li><a href="AN/Load_Runner_Analysis.htm">Analysis</a></li>
+                                <li><a href="PT/Performance_Testing.htm">Performance Testing</a></li>
+                                <li><a href="PT/Performance_Tuning.htm">Performance Tuning</a></li>
+                                <li><a href="LR_Error/Load_Runner_Errors.htm">Load Runner Errors</a></li>
+                                <li><a href="Interview_Question/Interview_question_home.htm">Interview Question</a></li>
+                                </ul>
+                          </li>
+                        <li><a href="Tool/Tool.htm">Tools    </a>
+                              <ul>
+                                <li><a href="LoadRunner_transaction_naming_tool.aspx">Transaction Naming</a></li>
+                                <li><a href="LoadRunner_Correlation_Finder.aspx">Correlation Finder</a></li>
+                                <li><a href="ENDE.aspx">URLEncode/URLDecode</a></li>
+                                <li><a href="Tool/Free_Website_Automation_from_Excel.htm">Web Automation by Excel</a></li>
+                                <li><a href="Tool/Free_Load_Testing_From_Excel.htm">Load Test by Excel</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Correlation Challenge</a>
+                            <ul>
+                                <li><a href="#">Challenge for Beginners</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Mod.aspx">Challenge for Modrate</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Exp.aspx">Challenge for Expert</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="About.aspx">About</a></li>
+                    </ul>
+                                          
+                    </td>
+                <td align="left" width="20%">
+   
+            &nbsp;</td>
+            </tr>
+        </table>
+    </div>
+<table cellpadding="0" cellspacing="0" style="padding-top:40px ">
+            <tr>
+                <td width="300px" style="padding: 10px" >
+                    </td>
+                <td width="950px" class="tbcontant">
+                    
+                       <br />
+                    
+                       <!--<iframe width="100%" height="315" src="//www.youtube.com/embed/QjSBYc3GJvM" frameborder="0" allowfullscreen></iframe>-->
+                       
+                </td>
+                <td width="300px" style="padding: 10px">
+                    </td>
+            </tr>
+            <tr>
+                <td  valign="top" align="center">
+                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                
+               </td>
+                <td valign="top" width="950px" class="tbcontant1">
+                   <div style=" margin:10px; font-family:'lucida grande', tahoma, verdana, arial, sans-serif">
+        
+    
+        <table style="width: 100%">
+            <tr>
+                <td valign="top" width="50%">
+                    <div class="divTopicMain">
+                        <div class="divTopicHeader">
+                            Correlation Challenge</div>
+                        <ol style=" list-style-type:none; padding:0; margin:0">
+                            <li class="liTopicData">
+                                Correlation Challenge- Beginners Level</li>
+                            <li class="liTopicData">
+                                <a href="LoadRunner_Correlation_Challenge_Mod.aspx"  class="aBlank" >Correlation Challenge- Moderate Level</a>
+                            </li>
+            
+                            <li class="liTopicDataLast">
+                                <a href="LoadRunner_Correlation_Challenge_Exp.aspx" class="aBlank" >Correlation Challenge- Expert Level</a></li>
+        
+                        </ol>    
+                    </div>
+                     <div class="divTopicMain">
+                        <div class="divTopicHeader">
+                            Training
+                             </div>
+                        <ol style=" list-style-type:none; padding:0; margin:0">
+                            <li class="liTopicData">
+                               <a href="Load_Runner/Load_Runner_Home.htm" class="aBlank" >Introduction And Architecture of Load Runner</a></li>
+                           <li class="liTopicData"> 
+                                <a href="VuGen/Load_Runner_VuGen_Home.htm" class="aBlank" >Load Runner VuGen Introduction</a></li>            
+                             <li class="liTopicData"> 
+                                <a href="Controller/Controller.htm" class="aBlank" >Load Runner Controller Introduction</a></li>
+                              <li class="liTopicData"> 
+                                <a href="AN/Load_Runner_Analysis.htm" class="aBlank" >Load Runner Analysis Introduction</a></li>  
+                                 <li class="liTopicData"> 
+                                <a href="PT/Performance_Tuning.htm" class="aBlank" >What is Performance Tuning?</a></li>
+                                <li class="liTopicData"> 
+                                <a href="PT/Performance_Testing.htm" class="aBlank" >What is Performance Testing?</a></li>    
+                            <li class="liTopicDataLast">
+                                <a href="LR_Error/Load_Runner_Errors.htm" class="aBlank" >Common Load Runner Errors</a></li>
+        
+                        </ol>    
+                    </div>
+                     
+                   
+                </td>
+                <td valign="top" width="50%">
+                     <div class="divTopicMain">
+                        <div class="divTopicHeader">
+                            Tool
+                             <div style=" float:right; padding-right:10px; color:#0092DD; font-size:14px"><a href="Tool/Tool.htm" class="aBlank">View All</a></div> 
+                          </div>
+                        <ol style=" list-style-type:none; padding:0; margin:0">
+                            <li class="liTopicData">
+                               <a href="LoadRunner_transaction_naming_tool.aspx" class="aBlank" > Transaction Naming</a></li>
+                           <li class="liTopicData"> 
+                                <a href="LoadRunner_Correlation_Finder.aspx" class="aBlank" >Correlation Finder</a></li>            
+                             <li class="liTopicData"> 
+                                <a href="Tool/Free_Load_Testing_From_Excel.htm" class="aBlank" >Load Test By Excel</a></li>
+                              <li class="liTopicData"> 
+                                <a href="Tool/Free_Website_Automation_from_Excel.htm" class="aBlank" >Web Automation By Excel</a></li>  
+                            <li class="liTopicDataLast">
+                                <a href="ENDE.aspx" class="aBlank" >URLEncode/URLDecode</a></li>
+        
+                        </ol>    
+                    </div>   
+                     <div class="divTopicMain">
+                        <div class="divTopicHeader">
+                            Load Runner Interview Question
+                            <div style=" float:right; padding-right:10px; color:#0092DD; font-size:14px"><a href="Interview_Question/Interview_question_home.htm" class="aBlank">View All</a></div> 
+                           </div>                                       
+                                        <ol style=" list-style-type:none; padding:0; margin:0">
+                                            <li class="liTopicData">
+                                                 <a href="Interview_Question/LoadRunner_Interview_Questions_Beginners_Level_1_Q1_10.htm" 
+                                                    class="aBlank">Interview Questions Beginners Level I</a></li>
+                                            <li class="liTopicData">
+                                                <a href="Interview_Question/LoadRunner_Interview_Questions_Beginners_Level_1_Q11_20.htm" 
+                                                    class="aBlank">Interview Questions Beginners Level I</a> </li>
+                                            <li class="liTopicData">
+                                                <a href="Interview_Question/LoadRunner_Interview_Questions_Intermediate_Level_2_Q1_10.htm"
+                                                    class="aBlank">Interview Questions Intermediate Level I</a> </li>
+                                            <li class="liTopicData">
+                                                <a href="Interview_Question/LoadRunner_Interview_Questions_Intermediate_Level_2_Q11_20.htm" 
+                                                    class="aBlank">Interview Questions Intermediate Level II</a> </li>
+                                            <li class="liTopicDataLast">
+                                                <a href="Interview_Question/LoadRunner_Interview_Questions_Expert_Level_3_Q1_10.htm" 
+                                                    class="aBlank">Interview Questions Expert Level I</a></li>
+                                        </ol>
+                                    </div>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td valign="top" width="50%" colspan="2" style="width: 100%">
+                <br /><hr />
+                <strong> What is Performances Testing?</strong><br />
+                    <span style=" font-size:14px;">
+                        What is Load Testing?
+                        Load Testing is a process to design and simulate usage traffic which can be used to test your server for performance, reliability and scalability. Load Testing of websites involves testing the performance and scalability of your web servers with varying user load. Load testing involves simulating real-life user load for the target website. It helps you determine how your website behaves when multiple users hits it simultaneously. Load testing with different load strategies and conditions helps you determine software design issues like incorrect concurrency/pooling mechanism, poor optimization, memory build-up, etc. Load Testing helps you identify server configuration issues with Web server, application server, database server, load balancer, etc. Load Testing helps you detect if your current infrastructure is sufficient to meet your user demand. Load Testing helps you determine the peak user load your website can sustain, number of concurrent users your website can support, and whether or not your website will scale as more users access it.
+                       
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- H_Page -->
+                        <ins class="adsbygoogle"
+                             style="display:inline-block;width:728px;height:90px"
+                             data-ad-client="ca-pub-2242131967064788"
+                             data-ad-slot="2118144356"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                         <br />
+                        <strong> Load testing will provide you answers of below questions:</strong>
+                        <br />
+                        •	Do you know the number of concurrent users that your website can safely support?
+                    <br />
+                    •	Will your website scale as more users access it?
+                    <br />
+                    •	Do you know how long it would take a visitor to receive a page?
+                    <br />
+                    •	Do you know the load point where your server crashes?
+                    <br />
+                    •	Is your current hardware sufficient to meet your predicted demand? If no, what additional hardware would you need?
+Load Testing can help you identify a variety of problems before you go into production:
+                    <br />
+                    •	Software design issues (incorrect concurrency/pooling mechanism, poor optimization, memory build-up, etc.)
+                    <br />
+                    •	Server configuration issues (Web server, application server, database server, load balancer, etc.)
+                    <br />
+                    •	Hardware limitation issues (Excessive disk I/O, CPU maximization, memory limitations, network bottleneck, etc.)
+
+
+                    
+                    </span>
+                <br />
+                  
+                </td>
+            </tr>
+        </table>
+        
+    
+    </div>
+                  
+                </td>
+                <td valign="top" style=" align="center">
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+               </td>
+            </tr>
+            <tr>
+                <td width="300px">
+                    &nbsp;</td>
+                <td width="950px">
+                   
+                    <br />
+                    <div id="divTags" align="center" style="background-color: #000000; color:Gray; padding:10px">
+                    
+                     <strong>FIND MORE ON LOAD RUNNER TIPS</strong><br /> |
+                     <a href="Load_Runner/Load_Runner_Home.htm" class="tadA">About Load Runner</a> |
+                     <a href="VuGen/Load_Runner_VuGen_Home.htm" class="tadA">Creating scripts in Load Runner</a> |
+                     <a href="Controller/Controller.htm" class="tadA">Load Runner scenario</a> |
+                     <a href="AN/Load_Runner_Analysis.htm" class="tadA">LR Analysis</a> |
+                     <a href="PT/Performance_Tuning.htm" class="tadA">Performance Tuning </a> |
+                     <a href="PT/Performance_Testing.htm" class="tadA">Performance Testing</a> |
+                     <a href="LR_Error/Load_Runner_Errors.htm" class="tadA">LR Errors</a> |
+                     <a href="Interview_Question/Interview_question_home.htm" class="tadA">Interview Question</a> |
+                     <a href="Tool/Tool.htm" class="tadA">Load Runner Tool</a> |
+                     <a href="LoadRunner_Correlation_Challenge_Mod.aspx" class="tadA">Correlation Practice</a> |
+                     <a href="SiteMap.aspx" class="tadA">Site Map</a> |
+                    
+                 </div>
+                    </td>
+                <td width="300px">
+                    &nbsp;</td>
+            </tr>
+        </table>
+</body>
+</html>

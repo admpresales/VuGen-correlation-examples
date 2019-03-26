@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Content-Type: image/x-icon
+Last-Modified: Mon, 08 Sep 2014 22:29:46 GMT
+Accept-Ranges: bytes
+ETag: "4f69d164b4cbcf1:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:11:20 GMT
+Content-Length: 1150
+

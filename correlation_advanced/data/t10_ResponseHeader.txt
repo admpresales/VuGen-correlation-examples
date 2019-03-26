@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Content-Type: text/html
+Content-Encoding: gzip
+Last-Modified: Thu, 25 Sep 2014 17:47:28 GMT
+Accept-Ranges: bytes
+ETag: "9a7c50c6e8d8cf1:0"
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:14:20 GMT
+Content-Length: 4804
+

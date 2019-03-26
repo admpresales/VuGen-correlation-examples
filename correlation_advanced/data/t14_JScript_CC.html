@@ -1,0 +1,11 @@
+﻿var xmlhttp; if (window.XMLHttpRequest) { xmlhttp = new XMLHttpRequest(); } else { xmlhttp = new ActiveXObject("Microsoft.XMLHTTP"); }
+function dd(str) {
+    if (document.getElementById("head_txtMagicNo").value == "") { alert("Enter no"); return false; } else { document.getElementById("head_txtMagicNo").value = parseInt(document.getElementById("head_txtMagicNo").value) + parseInt(str) }
+} function Button2_onclick() { var d = new Date(); var n = d.getTime(); xmlhttp.onreadystatechange = function () { if (xmlhttp.readyState == 4 && xmlhttp.status == 200) { var rp = xmlhttp.responseText.split("~"); document.getElementById("head_divStep3").innerHTML = rp[0]; } }; var hd = document.getElementById("head_hd1").value; xmlhttp.open("Get", "LoadRunner_Correlation_Challenge_Exp.aspx?RQM=" + hd + "&RND=" + Math.random(), true); xmlhttp.setRequestHeader("Status", hd.substring(5, 6)); xmlhttp.send("Status=" + n + "&btnNext3=Next"); }
+
+function Button1_onclick() {
+    var e = document.getElementById("Select1")
+
+    window.location = "LoadRunner_Correlation_Challenge_Mod.aspx?dd=1&game=" + e.options[e.selectedIndex].text;
+
+}

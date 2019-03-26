@@ -1,0 +1,15 @@
+[t16]
+FileName1=t16.htm
+URL1=http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+Total=3
+RequestHeaderFile=t16_RequestHeader.txt
+RequestBodyFile=t16_RequestBody.txt
+ResponseHeaderFile=t16_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_16.xml
+FileName2=t16_WebResource.html
+URL2=http://loadrunnertips.com/WebResource.axd?d=Dni4Dwp2sE7BkxnwJrEAA5649Tlmnpvwn2La2DRwkPVt5D7zaVMO-EzSoZ_dVp6PBIJvfHbzOMQZeZkiuwwsKjfi5gBPV8iFZodpTRMsMug1&t=636765212300000000
+FileName3=t16_WebResource.html
+URL3=http://loadrunnertips.com/WebResource.axd?d=_ik9MG88W60F3HCI3_iYhWbegkhYG7ydNd13f4OiDs4o4SXDkA3axp76aGF6nX2u8QN6h5kURIRHRFRTQRGwTHWg_sLQ5n4rRo3B6oaZXaI1&t=636765212300000000
+[ProtocolInfo]
+ProtocolId=QTWeb

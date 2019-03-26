@@ -1,0 +1,300 @@
+[API Trapper      ( 340:1574)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer ( 340:16fc)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 340:16fc)] Load Network Traffic Analyzers:
+[Network Analyzer ( 340:16fc)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 340:16fc)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( 340:16fc)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 340:16fc)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( 340:16fc)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( 340:16fc)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 340:16fc)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( 340:16fc)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 340:1700)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:16fc)] Establish Listener @ 127.0.0.1:12674
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 127.0.0.1:12674   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 6 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 184.168.224.169:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 23.215.98.113:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 340:1700)] "GET /success.txt"   
+[Network Analyzer ( 340:1700)]   (Sid:  4) Client -> Server @ : 298 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 23.76.193.229:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 23.76.193.229:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340: ffc)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 340:26d0)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 34.218.217.119:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340: ffc)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:26d0)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  4) Server -> Client : 384 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340: 88c)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer ( 340:1700)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[API Trapper      (1dec:11bc)] Recording in 32-bit mode: C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\HP.UFT.Firefox.NativeMessagingHost.exe
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  ( 340:16fc)] Request Connection: Remote Server @ 127.0.0.1:8824 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 340:16fc)] Request Connection: Remote Server @ 127.0.0.1:8824 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 340:16fc)] Request Connection: Remote Server @ 127.0.0.1:8824 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 340:16fc)] Request Connection: Remote Server @ 127.0.0.1:8824   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( 340:1700)] "GET /success.txt"   
+[Network Analyzer ( 340:1700)]   (Sid:  4) Client -> Server @ : 298 bytes (Service=HTTP)
+[Network Analyzer ( 340: 88c)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:1700)]   (Sid:  4) Server -> Client : 384 bytes  (Service=HTTP)
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 23.76.193.229:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:27f4)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( 340:1700)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Warning  ( 340:16fc)] Request Connection: Remote Server @ 127.0.0.1:8824 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 340:16fc)] Request Connection: Remote Server @ 127.0.0.1:8824 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 340:16fc)] Request Connection: Remote Server @ 127.0.0.1:8824 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 340:16fc)] Request Connection: Remote Server @ 127.0.0.1:8824   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:27f4)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 184.168.224.169:80   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( 340:1700)] "GET /LoadRunner_Correlation_Challenge_Exp.aspx"   
+[Network Analyzer ( 340:1700)]   (Sid:  9) Client -> Server @ : 377 bytes (Service=HTTP)
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 172.217.14.170:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 340:1700)] "GET /success.txt"   
+[Network Analyzer ( 340:1700)]   (Sid:  4) Client -> Server @ : 298 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  4) Server -> Client : 384 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1d14)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer ( 340:1700)]   (Sid:  9) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  9) Server -> Client : 2996 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:1d14)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 340:1700)] "GET /JS/JScript_CC.js"   
+[Network Analyzer ( 340:1700)]   (Sid:  9) Client -> Server @ : 340 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  9) Server -> Client : 1088 bytes  (Service=HTTP)
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 184.168.224.169:80   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( 340:1700)] "GET /JS/StyleSheet.css"   
+[Network Analyzer ( 340:1700)]   (Sid: 11) Client -> Server @ : 356 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( 340:1700)] "GET /success.txt"   
+[Network Analyzer ( 340:1700)]   (Sid:  4) Client -> Server @ : 298 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:1700)]   (Sid:  4) Server -> Client : 384 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 184.168.224.169:80   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( 340:1700)]   (Sid: 11) Server -> Client : 1633 bytes  (Service=HTTP)
+[Network Analyzer ( 340:16fc)] Address lookup for NimbusClient = 172.24.96.1
+[Network Analyzer ( 340:16fc)] Request Connection: Remote Server @ 34.212.119.231:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 340:1700)] "GET /IMG/LR.gif"   
+[Network Analyzer ( 340:1700)]   (Sid: 12) Client -> Server @ : 334 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 340:1700)] "GET /img/images.jpg"   
+[Network Analyzer ( 340:1700)]   (Sid: 11) Client -> Server @ : 338 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid: 12) Server -> Client : 1920 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid: 11) Server -> Client : 1875 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 340:1700)] "GET /favicon.ico"   
+[Network Analyzer ( 340:1700)]   (Sid: 12) Client -> Server @ : 257 bytes (Service=HTTP)
+[Network Analyzer ( 340:1e58)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 340:1700)]   (Sid: 12) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1e58)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:1700)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 340:1700)] "GET /success.txt"   
+[Network Analyzer ( 340:1700)]   (Sid:  4) Client -> Server @ : 298 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  4) Server -> Client : 384 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( 340:1700)] "POST /LoadRunner_Correlation_Challenge_Exp.aspx"   
+[Network Analyzer ( 340:1700)]   (Sid:  9) Client -> Server @ : 791 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  9) Server -> Client : 3911 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( 340:1700)] "POST /LoadRunner_Correlation_Challenge_Exp.aspx"   
+[Network Analyzer ( 340:1700)]   (Sid:  9) Client -> Server @ : 897 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  9) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  9) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  9) Server -> Client : 2048 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 340:1700)] "GET /WebResource.axd?d=Dni4Dwp2sE7BkxnwJrEAA5649Tlmnpvwn2La2DRwkPVt5D7zaVMO-EzSoZ_dVp6PBIJvfHbzOMQZeZkiuwwsKjfi5gBPV8iFZodpTRMsMug1&t=636765212300000000"   
+[Network Analyzer ( 340:1700)]   (Sid: 12) Client -> Server @ : 523 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 340:1700)] "GET /WebResource.axd?d=_ik9MG88W60F3HCI3_iYhWbegkhYG7ydNd13f4OiDs4o4SXDkA3axp76aGF6nX2u8QN6h5kURIRHRFRTQRGwTHWg_sLQ5n4rRo3B6oaZXaI1&t=636765212300000000"   
+[Network Analyzer ( 340:1700)]   (Sid: 11) Client -> Server @ : 523 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid: 12) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid: 11) Server -> Client : 7611 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid: 12) Server -> Client : 4930 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 340:1700)] "POST /LoadRunner_Correlation_Challenge_Exp.aspx"   
+[Network Analyzer ( 340:1700)]   (Sid: 11) Client -> Server @ : 939 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid: 11) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid: 11) Server -> Client : 2330 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( 340:1700)] "GET /LoadRunner_Correlation_Challenge_Exp.aspx?RQM=1649104177&RND=0.19235984635571723"   
+[Network Analyzer ( 340:1700)]   (Sid: 11) Client -> Server @ : 467 bytes (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid: 11) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid: 11) Server -> Client : 666 bytes  (Service=HTTP)
+[Network Analyzer ( 340:1700)]   (Sid:  2) Client -> Server @ : 2 bytes 

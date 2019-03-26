@@ -1,0 +1,11 @@
+[t17]
+FileName1=t17.htm
+URL1=http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+Total=1
+RequestHeaderFile=t17_RequestHeader.txt
+RequestBodyFile=t17_RequestBody.txt
+ResponseHeaderFile=t17_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_17.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

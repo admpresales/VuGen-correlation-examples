@@ -1,0 +1,186 @@
+Correlation Challenge Completed (manually). Try now it in Vegen. ~
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	LoadRunner:Correlation Challenge
+</title>
+    <script type="text/javascript" src="JS/JScript_CC.js"></script>
+    <link href="JS/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+       
+        .style1
+        {
+            height: 39px;
+        }
+       
+    </style>
+   <script>
+       (function (i, s, o, g, r, a, m) {
+           i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+               (i[r].q = i[r].q || []).push(arguments)
+           }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+       })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+       ga('create', 'UA-54539864-2', 'auto');
+       ga('send', 'pageview');
+
+</script>
+    <meta name="keywords" content="LoadRunner Correlation practice, LR Correlation practice, LoadRunner Correlation Challenge, LR Correlation Challenge, Loadrunner, LR, Correlation, VeGen, LR scripting, LoadRunner Scripting Correlation practice, LR Scripting Correlation practice" /><meta name="description" content="Welcome to the Correlation Challenge. I have condensed some of the types of correlation problems I have encountered in real web applications (ranging from relatively easy, to fairly difficult) into this exercise. You should be able to manually navigate through the Challenge with no problems, but creating a LoadRunner/VuGen script that will do the same thing will take a non-trivial amount of effort. Please treat this as a training exercise. If you can get to the end of this exercise by yourself, then you can correlate with the best of them" /></head>
+<body style=" padding:0px; margin:0px;background-color:#EFEFEF; font:Arial;">
+
+    <form method="post" action="./LoadRunner_Correlation_Challenge_Exp.aspx?RQM=1649104177&amp;RND=0.19235984635571723" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMwNzk0OTUxN2RkiNLWKXvunUPD8hG0KuCM1zvFDlEueuKlFq9Ah2nRCFs=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C6B83A63" />
+</div>
+    <div style=" border-width: 1px; border-color: #000000; position:fixed; width:100%; background-color: #0066CC; padding-top:0px; border-bottom-style: solid;">
+        <table  cellspacing="0" cellpadding="0"  style=" background:url('img/images.jpg'); background-repeat:repeat-x; width:100%; padding:0px">
+            <tr>
+                <td width="20%">
+           
+            <a id="HyperLink1" style="display:inline-block;border-style:None;font-family:Arial;font-weight:bold; text-decoration:none"><img src="IMG/LR.gif" alt="LR Tricks" /></a>
+           </td>
+                <td width="60%" valign="top" align="left">
+                    <br />
+                        <ul id="trans-nav" >
+                        <li><a href="Index.htm">Home</a></li>
+                         <li><a href="">Training</a>
+                                 <ul>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Load Runner</a></li>
+                                <li><a href="VuGen/Load_Runner_VuGen_Home.htm">VuGen</a></li>
+                                <li><a href="Controller/Controller.htm">Controller</a></li>
+                                <li><a href="AN/Load_Runner_Analysis.htm">Analysis</a></li>
+                                <li><a href="PT/Performance_Testing.htm">Performance Testing</a></li>
+                                <li><a href="PT/Performance_Tuning.htm">Performance Tuning</a></li>
+                                <li><a href="LR_Error/Load_Runner_Errors.htm">Load Runner Errors</a></li>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Interview Question</a></li>
+                                </ul>
+                          </li>
+                        <li><a href="Tool/Tool.htm">Tools    </a>
+                              <ul>
+                                <li><a href="LoadRunner_transaction_naming_tool.aspx">Transaction Naming</a></li>
+                                <li><a href="LoadRunner_Correlation_Finder.aspx">Correlation Finder</a></li>
+                                <li><a href="ENDE.aspx">URLEncode/URLDecode</a></li>
+                                <li><a href="Tool/Free_Website_Automation_from_Excel.htm">Web Automation by Excel</a></li>
+                                <li><a href="Tool/Free_Load_Testing_From_Excel.htm">Load Test by Excel</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Correlation Challenge</a>
+                            <ul>
+                                <li><a href="#">Challenge for Beginners</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Mod.aspx">Challenge for Modrate</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Exp.aspx">Challenge for Expert</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="About.aspx">About</a></li>
+                    </ul>                        
+                    </td>
+                <td align="left" width="20%">
+   
+            &nbsp;</td>
+            </tr>
+        </table>
+    </div>
+        <table cellpadding="0" cellspacing="0" style=" width:100%; padding-top:40px ">
+            <tr>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+                <td width="60%" 
+                    
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; padding: 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid;" 
+                    class="style1">
+                   
+                       
+                      
+                </td>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                   </td>
+                <td valign="top" width="60%" 
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+                    <div style="border-top-style: solid; border-bottom-style: solid; border-width: 1px; border-color: #000000">
+                     </div>
+                    
+    <div style=" margin:10px;font-family:Verdana">
+<div>
+    
+    
+    
+    
+    
+    </div>
+    </div>
+    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- H_Page -->
+                        <ins class="adsbygoogle"
+                             style="display:inline-block;width:728px;height:90px"
+                             data-ad-client="ca-pub-2242131967064788"
+                             data-ad-slot="2118144356"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                </td>
+                <td width="20%" align="center" valign="top" >
+                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+                <td width="60%" align="center" valign="top">
+                <br />
+                   
+                    <br />
+                    <div id="divTags" align="center" style="background-color: #000000; color:Gray; padding:10px">
+                    
+                     <strong>FIND MORE ON LOAD RUNNER TIPS</strong><br /> |
+                     <a href="Load_Runner/Load_Runner_Home.htm" class="tadA">About Load Runner</a> |
+                     <a href="VuGen/Load_Runner_VuGen_Home.htm" class="tadA">Creating scripts in Load Runner</a> |
+                     <a href="Controller/Controller.htm" class="tadA">Load Runner scenario</a> |
+                     <a href="AN/Load_Runner_Analysis.htm" class="tadA">LR Analysis</a> |
+                     <a href="PT/Performance_Tuning.htm" class="tadA">Performance Tuning </a> |
+                     <a href="PT/Performance_Testing.htm" class="tadA">Performance Testing</a> |
+                     <a href="LR_Error/Load_Runner_Errors.htm" class="tadA">LR Errors</a> |
+                     <a href="Interview_Question/Interview_question_home.htm" class="tadA">Interview Question</a> |
+                     <a href="Tool/Tool.htm" class="tadA">Load Runner Tool</a> |
+                     <a href="LoadRunner_Correlation_Challenge_Mod.aspx" class="tadA">Correlation Practice</a> |
+                     <a href="SiteMap.aspx" class="tadA">Site Map</a> |
+                    
+                 </div>
+                 </td>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+            </tr>
+        </table>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,3468 @@
+****** Start Log Message ******
+Web Recorder version : 12.60.971.0 
+Recording Mode: HTML-based script
+Recording headers not in list:
+	accept
+	accept-charset
+	accept-encoding
+	accept-language
+	accept-ranges
+	age
+	allow
+	cache-control
+	content-base
+	content-disposition
+	content-encoding
+	content-language
+	content-location
+	content-md5
+	content-range
+	content-type
+	date
+	etag
+	expires
+	from
+	if-modified-since
+	if-match
+	if-none-match
+	if-range
+	if-unmodified-since
+	location
+	last-modified
+	max-forwards
+	pragma
+	public
+	range
+	retry-after
+	server
+	transfer-encoding
+	upgrade
+	user-agent
+	vary
+	via
+	warning
+	method
+	path
+	scheme
+Not excluding content types
+Do not record this content types as a resource:
+	text/html
+	text/xml
+	application/json
+Reset context between actions
+Record non-HTML elements in current HTML function
+Protocol Type: Multi-QTWeb
+
+$$$$$$ End Log Message $$$$$$
+
+Code generation version: 12.60.971.0
+
+****** Analyze segments filter initialization ******
+****** Request Header For Transaction With Id 395 ******
+GET /success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 395 Ended $$$$$$
+
+****** Response Header For Transaction With Id 395 ******
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 8
+Last-Modified: Mon, 15 May 2017 18:04:40 GMT
+ETag: "ae780585f49b94ce1444eb7d28906123"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Amz-Cf-Id: iN3GJP2zyKiHN0gIh_csU4FG7p4N-XBGuZZHagwsiHOJTpI7O3gFSg==
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 14 Mar 2019 20:15:21 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 395 Ended $$$$$$
+
+****** Response Body For Transaction With Id 395 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 395 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Start Log Message ******
+Set SSL version to 'TLS1.2'
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 395 ****** (Location Flag : tFlagInsertEnd, Location ID : 395)
+	web_url("success.txt",
+		"URL=http://detectportal.firefox.com/success.txt",
+		"Resource=1",
+		"RecContentType=text/plain",
+		"Referer=",
+		"Snapshot=t11.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 395 Ended $$$$$$
+
+****** Request Header For Transaction With Id 411 ******
+GET /success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 411 Ended $$$$$$
+
+****** Response Header For Transaction With Id 411 ******
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 8
+Last-Modified: Mon, 15 May 2017 18:04:40 GMT
+ETag: "ae780585f49b94ce1444eb7d28906123"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Amz-Cf-Id: iN3GJP2zyKiHN0gIh_csU4FG7p4N-XBGuZZHagwsiHOJTpI7O3gFSg==
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 14 Mar 2019 20:15:25 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 411 Ended $$$$$$
+
+****** Response Body For Transaction With Id 411 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 411 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 411 ****** (Location Flag : tFlagInsertEnd, Location ID : 411)
+	web_url("success.txt_2",
+		"URL=http://detectportal.firefox.com/success.txt",
+		"Resource=1",
+		"RecContentType=text/plain",
+		"Referer=",
+		"Snapshot=t12.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 411 Ended $$$$$$
+
+****** Request Header For Transaction With Id 435 ******
+GET /success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 435 Ended $$$$$$
+
+****** Response Header For Transaction With Id 435 ******
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 8
+Last-Modified: Mon, 15 May 2017 18:04:40 GMT
+ETag: "ae780585f49b94ce1444eb7d28906123"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Amz-Cf-Id: iN3GJP2zyKiHN0gIh_csU4FG7p4N-XBGuZZHagwsiHOJTpI7O3gFSg==
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 14 Mar 2019 20:15:28 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 435 Ended $$$$$$
+
+****** Response Body For Transaction With Id 435 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 435 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 435 ****** (Location Flag : tFlagInsertEnd, Location ID : 435)
+	web_url("success.txt_3",
+		"URL=http://detectportal.firefox.com/success.txt",
+		"Resource=1",
+		"RecContentType=text/plain",
+		"Referer=",
+		"Snapshot=t13.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 435 Ended $$$$$$
+
+****** Request Header For Transaction With Id 437 ******
+GET /LoadRunner_Correlation_Challenge_Exp.aspx HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+$$$$$$ Request Header For Transaction With Id 437 Ended $$$$$$
+
+****** Response Header For Transaction With Id 437 ******
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:15:27 GMT
+Content-Length: 4158
+
+
+$$$$$$ Response Header For Transaction With Id 437 Ended $$$$$$
+
+****** Response Body For Transaction With Id 437 ******
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	LoadRunner:Correlation Challenge
+</title>
+    <script type="text/javascript" src="JS/JScript_CC.js"></script>
+    <link href="JS/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+       
+        .style1
+        {
+            height: 39px;
+        }
+       
+    </style>
+   <script>
+       (function (i, s, o, g, r, a, m) {
+           i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+               (i[r].q = i[r].q || []).push(arguments)
+           }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+       })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+       ga('create', 'UA-54539864-2', 'auto');
+       ga('send', 'pageview');
+
+</script>
+    <meta name="keywords" content="LoadRunner Correlation practice, LR Correlation practice, LoadRunner Correlation Challenge, LR Correlation Challenge, Loadrunner, LR, Correlation, VeGen, LR scripting, LoadRunner Scripting Correlation practice, LR Scripting Correlation practice" /><meta name="description" content="Welcome to the Correlation Challenge. I have condensed some of the types of correlation problems I have encountered in real web applications (ranging from relatively easy, to fairly difficult) into this exercise. You should be able to manually navigate through the Challenge with no problems, but creating a LoadRunner/VuGen script that will do the same thing will take a non-trivial amount of effort. Please treat this as a training exercise. If you can get to the end of this exercise by yourself, then you can correlate with the best of them" /></head>
+<body style=" padding:0px; margin:0px;background-color:#EFEFEF; font:Arial;">
+
+    <form method="post" action="./LoadRunner_Correlation_Challenge_Exp.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMwNzk0OTUxN2RkiNLWKXvunUPD8hG0KuCM1zvFDlEueuKlFq9Ah2nRCFs=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C6B83A63" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAKWnP2BiipA7Vh6gBcOxe+ZnlbekVM3R/a0oKRYPLuOROBA+qK0GCZSpP/yx2fl48xlKgVbMzkVLSKcmxdh1d24" />
+</div>
+    <div style=" border-width: 1px; border-color: #000000; position:fixed; width:100%; background-color: #0066CC; padding-top:0px; border-bottom-style: solid;">
+        <table  cellspacing="0" cellpadding="0"  style=" background:url('img/images.jpg'); background-repeat:repeat-x; width:100%; padding:0px">
+            <tr>
+                <td width="20%">
+           
+            <a id="HyperLink1" style="display:inline-block;border-style:None;font-family:Arial;font-weight:bold; text-decoration:none"><img src="IMG/LR.gif" alt="LR Tricks" /></a>
+           </td>
+                <td width="60%" valign="top" align="left">
+                    <br />
+                        <ul id="trans-nav" >
+                        <li><a href="Index.htm">Home</a></li>
+                         <li><a href="">Training</a>
+                                 <ul>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Load Runner</a></li>
+                                <li><a href="VuGen/Load_Runner_VuGen_Home.htm">VuGen</a></li>
+                                <li><a href="Controller/Controller.htm">Controller</a></li>
+                                <li><a href="AN/Load_Runner_Analysis.htm">Analysis</a></li>
+                                <li><a href="PT/Performance_Testing.htm">Performance Testing</a></li>
+                                <li><a href="PT/Performance_Tuning.htm">Performance Tuning</a></li>
+                                <li><a href="LR_Error/Load_Runner_Errors.htm">Load Runner Errors</a></li>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Interview Question</a></li>
+                                </ul>
+                          </li>
+                        <li><a href="Tool/Tool.htm">Tools    </a>
+                              <ul>
+                                <li><a href="LoadRunner_transaction_naming_tool.aspx">Transaction Naming</a></li>
+                                <li><a href="LoadRunner_Correlation_Finder.aspx">Correlation Finder</a></li>
+                                <li><a href="ENDE.aspx">URLEncode/URLDecode</a></li>
+                                <li><a href="Tool/Free_Website_Automation_from_Excel.htm">Web Automation by Excel</a></li>
+                                <li><a href="Tool/Free_Load_Testing_From_Excel.htm">Load Test by Excel</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Correlation Challenge</a>
+                            <ul>
+                                <li><a href="#">Challenge for Beginners</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Mod.aspx">Challenge for Modrate</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Exp.aspx">Challenge for Expert</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="About.aspx">About</a></li>
+                    </ul>                        
+                    </td>
+                <td align="left" width="20%">
+   
+            &nbsp;</td>
+            </tr>
+        </table>
+    </div>
+        <table cellpadding="0" cellspacing="0" style=" width:100%; padding-top:40px ">
+            <tr>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+                <td width="60%" 
+                    
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; padding: 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid;" 
+                    class="style1">
+                   
+                       
+                      
+                </td>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                   </td>
+                <td valign="top" width="60%" 
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+                    <div style="border-top-style: solid; border-bottom-style: solid; border-width: 1px; border-color: #000000">
+                     </div>
+                    
+    <div style=" margin:10px;font-family:Verdana">
+<div>
+    <div id="head_divStart" style="margin-left: 40px">
+        <strong>What is Correlation in Load Runner?
+        </strong><br /><br />
+        Correlation is used to obtain data which are unique for each run of the script and which are generated by web server. Correlation provides the value to avoid errors arising out of duplicate values and also optimizing the code. Automatic correlation is where we set some rules for correlation. It can be application server specific. Here values are replaced by data which are created by these rules. In manual correlation, the value we want to correlate is scanned and create correlation is used to correlate.
+        <br /><br /><strong>Correlation Challenge- Expert
+        </strong>
+        <br />
+        <br />
+        Welcome to the Correlation Challenge. I have condensed some of the types of 
+        correlation problems I have encountered in real web applications (ranging from 
+        relatively easy, to fairly difficult) into this exercise. You should be able to 
+        manually navigate through the Challenge with no problems, but creating a 
+        LoadRunner/VuGen script that will do the same thing will take a non-trivial 
+        amount of effort. Please treat this as a training exercise. If you can get to 
+        the end of this exercise by yourself, then you can correlate with the best of 
+        them.<br />
+        <br />
+        <strong>Notes</strong>:
+        <br />
+        • The Challenges must be attempted in the order given.
+        <br />
+        • You must have JavaScript enabled in your browser to proceed through this 
+        challenge manually.
+        <br />
+        • Please don’t share your solutions, ask for help, or help others. This is meant 
+        to be a challenge.
+        <br />
+        • Please email me if you find any bugs that are not obviously part of the 
+        challenge (deepak at loadrunnertips.com)
+        <br />
+        • If you email me your (zipped) solution, I will list your name/website/company 
+        here.<br />
+    
+        <br />
+        On with the challenge! Press the &quot;Start&quot; button to continue...<br />
+        <br />
+    
+        <input type="submit" name="ctl00$head$btnStart" value="Start" id="head_btnStart" />
+        <br />
+        <br />
+        
+</div>
+    
+    
+    
+    
+    </div>
+    </div>
+    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- H_Page -->
+                        <ins class="adsbygoogle"
+                             style="display:inline-block;width:728px;height:90px"
+                             data-ad-client="ca-pub-2242131967064788"
+                             data-ad-slot="2118144356"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                </td>
+                <td width="20%" align="center" valign="top" >
+                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+                <td width="60%" align="center" valign="top">
+                <br />
+                   
+                    <br />
+                    <div id="divTags" align="center" style="background-color: #000000; color:Gray; padding:10px">
+                    
+                     <strong>FIND MORE ON LOAD RUNNER TIPS</strong><br /> |
+                     <a href="Load_Runner/Load_Runner_Home.htm" class="tadA">About Load Runner</a> |
+                     <a href="VuGen/Load_Runner_VuGen_Home.htm" class="tadA">Creating scripts in Load Runner</a> |
+                     <a href="Controller/Controller.htm" class="tadA">Load Runner scenario</a> |
+                     <a href="AN/Load_Runner_Analysis.htm" class="tadA">LR Analysis</a> |
+                     <a href="PT/Performance_Tuning.htm" class="tadA">Performance Tuning </a> |
+                     <a href="PT/Performance_Testing.htm" class="tadA">Performance Testing</a> |
+                     <a href="LR_Error/Load_Runner_Errors.htm" class="tadA">LR Errors</a> |
+                     <a href="Interview_Question/Interview_question_home.htm" class="tadA">Interview Question</a> |
+                     <a href="Tool/Tool.htm" class="tadA">Load Runner Tool</a> |
+                     <a href="LoadRunner_Correlation_Challenge_Mod.aspx" class="tadA">Correlation Practice</a> |
+                     <a href="SiteMap.aspx" class="tadA">Site Map</a> |
+                    
+                 </div>
+                 </td>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+            </tr>
+        </table>
+
+    </form>
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 437 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 437 ****** (Location Flag : tFlagInsertEnd, Location ID : 437)
+	web_url("LoadRunner_Correlation_Challenge_Exp.aspx",
+		"URL=http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t14.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 437 Ended $$$$$$
+
+****** Request Header For Transaction With Id 455 ******
+GET /JS/JScript_CC.js HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+DNT: 1
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 455 Ended $$$$$$
+
+****** Response Header For Transaction With Id 455 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Content-Type: application/javascript
+Content-Encoding: gzip
+Last-Modified: Sat, 30 Aug 2014 16:59:14 GMT
+Accept-Ranges: bytes
+ETag: "5e6ea5ba73c4cf1:0"
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:15:28 GMT
+Content-Length: 722
+
+
+$$$$$$ Response Header For Transaction With Id 455 Ended $$$$$$
+
+****** Response Body For Transaction With Id 455 ******
+\xEF\xBB\xBFvar xmlhttp; if (window.XMLHttpRequest) { xmlhttp = new XMLHttpRequest(); } else { xmlhttp = new ActiveXObject("Microsoft.XMLHTTP"); }
+function dd(str) {
+    if (document.getElementById("head_txtMagicNo").value == "") { alert("Enter no"); return false; } else { document.getElementById("head_txtMagicNo").value = parseInt(document.getElementById("head_txtMagicNo").value) + parseInt(str) }
+} function Button2_onclick() { var d = new Date(); var n = d.getTime(); xmlhttp.onreadystatechange = function () { if (xmlhttp.readyState == 4 && xmlhttp.status == 200) { var rp = xmlhttp.responseText.split("~"); document.getElementById("head_divStep3").innerHTML = rp[0]; } }; var hd = document.getElementById("head_hd1").value; xmlhttp.open("Get", "LoadRunner_Correlation_Challenge_Exp.aspx?RQM=" + hd + "&RND=" + Math.random(), true); xmlhttp.setRequestHeader("Status", hd.substring(5, 6)); xmlhttp.send("Status=" + n + "&btnNext3=Next"); }
+
+function Button1_onclick() {
+    var e = document.getElementById("Select1")
+
+    window.location = "LoadRunner_Correlation_Challenge_Mod.aspx?dd=1&game=" + e.options[e.selectedIndex].text;
+
+}
+
+$$$$$$ Response Body For Transaction With Id 455 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 459 ******
+GET /success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 459 Ended $$$$$$
+
+****** Response Header For Transaction With Id 459 ******
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 8
+Last-Modified: Mon, 15 May 2017 18:04:40 GMT
+ETag: "ae780585f49b94ce1444eb7d28906123"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Amz-Cf-Id: iN3GJP2zyKiHN0gIh_csU4FG7p4N-XBGuZZHagwsiHOJTpI7O3gFSg==
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 14 Mar 2019 20:15:28 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 459 Ended $$$$$$
+
+****** Response Body For Transaction With Id 459 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 459 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 437 ******
+	web_url("LoadRunner_Correlation_Challenge_Exp.aspx",
+		"URL=http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t14.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://detectportal.firefox.com/success.txt", "Referer=", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 437 Ended $$$$$$
+
+****** Request Header For Transaction With Id 486 ******
+GET /JS/StyleSheet.css HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+DNT: 1
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 486 Ended $$$$$$
+
+****** Response Header For Transaction With Id 486 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Content-Type: text/css
+Content-Encoding: gzip
+Last-Modified: Sat, 06 Dec 2014 13:25:32 GMT
+Accept-Ranges: bytes
+ETag: "17fc841c5811d01:0"
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:15:28 GMT
+Content-Length: 1280
+
+
+$$$$$$ Response Header For Transaction With Id 486 Ended $$$$$$
+
+****** Response Body For Transaction With Id 486 ******
+﻿body 
+{
+    padding:0px; margin:0px;background-color:#EFEFEF; font-family:Verdana;  
+}
+#divPageData
+{
+    padding-top:90px; background-color:White; padding-left:10px; padding-bottom:10px; padding-right:10px;    
+}
+.divHeader
+{
+    padding-bottom:10px;font-variant:small-caps;font-size:45px;line-height:normal; display:block; color:#333; 
+}
+.divPageHeader
+{border-width: 1px; border-color: #000000; position:fixed; width:100%; background-color: #0066CC; padding-top:0px; border-bottom-style: solid;}
+.divContent
+{color:#333; font-size:16px; line-height:1.5625;text-align:justify; font-family:Verdana; text-decoration:none;}
+.tbMenu
+{ background:url('../img/images.jpg'); background-repeat:repeat-x; width:100%; padding-top:10px; }
+#divTags
+{background-color: #000000; color:Gray; padding:10px}
+.tbcontant
+{border-width: 1px; border-color: #000000; background-color: #FFFFFF; padding: 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid;}
+.tbcontant1 
+{ border-width: 1px; border-color: #000000; background-color: #FFFFFF; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; width:1200px ;}
+
+#trans-nav { list-style-type: none; height: 40px; padding: 0; margin: 0; vertical-align:bottom; text-align:left }
+#trans-nav { list-style-type: none; height: 40px; padding: 0; margin: 0; }
+#trans-nav li { float: left; position: relative; padding: 0; line-height: 40px;  font-weight:bold; font-family:Arial,Verdana,sans-serif; font-size:15px; }
+#trans-nav li:hover { background-position: 0 -40px; background-color:#308dbf; border-radius:12px}
+#trans-nav li a { display: block; padding: 0 15px; color: black; text-decoration: none; }
+#trans-nav li a:hover { color:white; }
+#trans-nav li ul { opacity: 0; position: absolute; left: 0;width: 15em ; background: #308dbf; list-style-type: none; padding: 0; margin: 0; }
+#trans-nav li:hover ul { opacity: 1; }
+#trans-nav li ul li { float: none; position: static; height: 0; line-height: 0; background: none; }
+#trans-nav li:hover ul li { height: 30px; line-height: 30px; }
+#trans-nav li ul li a { background: #FBFDFF; border:1px solid gray;border-radius:3px}
+#trans-nav li ul li a:hover { background: #308dbf; }
+                
+#trans-nav li { -webkit-transition: all 0.2s; }
+#trans-nav li a { -webkit-transition: all 0.5s; }
+#trans-nav li ul { -webkit-transition: all 1s; }
+#trans-nav li ul li { -webkit-transition: height 0.5s; }
+
+#trans-nav li ul { display: none; }
+#trans-nav li:hover ul, #trans-nav li.over ul {display: block; }
+#trans-nav li ul li { height: 30px; line-height: 30px; }
+
+.divTopicMain
+{margin-left:15px; float:left; clear:left; border:2px solid #D4DADF; border-radius:3px; margin-bottom:24px; width:95%; font-size:13px; font-family:Arial,Helvetica,Sans-Serif; color:#5F6D81;}
+
+.divTopicHeader
+{margin-left:0px; margin-right:0px; padding-left:10px; padding-right:10px; height:44px;  line-height:44px; font-weight:bold; border-bottom:2px solid #D4DADF; font-size:16px; color:#5F6D81}
+
+.liTopicData
+{margin-left:13px; margin-right:13px; height:30px; line-height:30px; border-bottom:1px solid #D4DADF;}
+
+.liTopicDataLast
+{ margin-left:13px; margin-right:13px; height:30px; line-height:30px;    }
+.tadA
+{text-decoration:none; color:Gray; font-size:14px; padding:3px}
+.aBlank
+{text-decoration:none; color:inherit}
+.divAdd
+{padding-top:30px;}
+$$$$$$ Response Body For Transaction With Id 486 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 490 ******
+GET /IMG/LR.gif HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+DNT: 1
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 490 Ended $$$$$$
+
+****** Response Header For Transaction With Id 490 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Content-Type: image/gif
+Last-Modified: Sat, 23 Aug 2014 12:27:06 GMT
+Accept-Ranges: bytes
+ETag: "e23e7b8dcdbecf1:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:15:28 GMT
+Content-Length: 1613
+
+
+$$$$$$ Response Header For Transaction With Id 490 Ended $$$$$$
+
+****** Response Body For Transaction With Id 490 ******
+GIF89a\xFA\x00\x1B\x00\xF5\x00\x00\x7F\x06\x00y]-\x86\x14\x0F\x8D#\x1E\x8F%\x1F\x942-\x974/\x9B@=\x9FD?\xA2OL\xA7SO\xA9^[\xAFc_\xB0lj\xB7ro\xB7{zF\x9C#Q\xA20[\xA6=]\xA8>e\xABJh\xAELp\xB1Wt\xB4Z\x7F\xBAg\xA0\x88h\xBF\x82\x7F\x85\xBBq\x8B\xC1u\x8F\xC1~\xBE\x8A\x89\xC7\x92\x8F\xC5\x98\x98\xCF\xA1\x9F\xCC\xA7\xA7\xD7\xB1\xAF\xD3\xB6\xB7\x96\xC7\x83\xA2\xCD\x91\xAE\xD3\x9E\xAF\xD1\xA5\xB9\xD9\xAC\xDF\xC0\xBF\xC4\xDB\xBF\xC5\xE0\xBA\xDA\xC4\xC6\xE7\xD0\xCF\xE1\xD3\xD5\xEF\xDF\xDF\xCF\xE1\xCC\xD0\xE6\xC8\xDC\xEC\xD5\xD9\xE6\xD9\xE8\xE2\xE4\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00!\xF9\x04\x01\x00\x006\x00,\x00\x00\x00\x00\xFA\x00\x1B\x00\x00\x06\xFE@\x9BpH,\x1A\x8F\xC8\xA4r\xC9l:\x9FPa\x05\x12\xB9X\xAFV\xD4\x10\xCB\xBD@J\xD1\xB0xL.\x9B\xCF\xE84\x12\xC2\x86L\xACS\xF6J(k\xBF'm\xB6V\xCD\xEF\xFB\xFF\x80\x81K,l\x18Fx4B)l3F\x11\x101\x82\x92\x93\x94\x95\x96C%\x10\x17GT\x98\x9DF\x15\x11\x97\xA3\xA4\xA5\xA6M\xA1Gu\x9BB^\xACEV\xA7\xB26\x1A\xB5\xB5!\xA4\x1A\x1E\x1E\x0F\x1A06\xBC\xBD\xB5\x0E\xB5\x1F#*\xB3i'\x10&Cl\xCDC\xB6\x01\x19\x94"\xB6\xB5\xC2\xB8\xA6\x00\xDC\xDC\xDA\x97\x07\x02\xDC\x02B	\xE3\xE3\x02\xE9\x00\x02\xC9g\x1C\x10)\xCE\xF1C$\xEA\x00\x0F\x92!\xF7\xDD\xEB\x02\x07\xA7\xFA\x11(\xD5\x0F\xA0q\xDD\x1ExX\xA0.]\x0Bwe\xBC4\xB2A\x08\xC2D\x1B\x0E\xFA\xB9\x90\x84\x90\x9B\x01b\x0F\x1A\x14\xC8WjD?\x07\xA4\xEC%\xB4aO\x9C\x00\x03C\x10\xA0#\x01\x91\x0C\x9B!&n\x96\xEC\x87\xA0f\xFE\xC6n#\x8E\x848\x80\xA0\xA3G\x05\x1Bm\xC8\xEC7\x0E\x81\x82!\x1E\x0E\x0C\xF0\xA7\x80A\xC7\x8D\x0F\xD6\xADC)\x84@?\x1BV]j3\xD0\xEF\x17:~\x04\x10\xFC\x02\x86P\xC0\xD4n\x084D;\xE0\xB5\x9F\x81\x03	~\x81h\xEB\x02\xC1\xDB\xA434m\x11,d\x1FB\x066\x16\xF4c\xD0-\xAD\\\x96\x08\x962\x05\xF0\xD8\xC8On\\\x8B\xA8P\x80\xC0k\xC3\xB4"\x84h\xE8\xA7\x80\xA9\x80Zu\x01\xC4U\x92\x1A\xC0\x91\xD1Z\x01\x18h=P\x05\x80\x02\x91#\xC7\x06\xD0\x0Ev\xB7\x03\xFD\xD2	\x01>\xAEA\x8B\x16\x1F\xFA-\x00[\xB6kc!L\xD3v\x1Ch#+O\xB2\xDDp]^W\xF4\xA4\x15\x1D\x0Bt#'\x84\x10\x87!x\xC0\x08!\xD1\x0F\x97\xE2\xF1\xDD\x81\xBA`\x9A{i\xD0#\xD8\xB9\xDD'b;\xB8\x01~\xBF\xF8&N\x01\x1D\xA5#\x80d\xDC s\xC4\x0Bv\x1D\x81\xE0Z\x08&\xD1VO\xF9\x91w\xD08O\xD9\x10\x9CQ\xD9\xFE]\xB8\xCE\x00B\xC0\xE0\xDD|\xDD F\xCBW6\x946\xCEZ\xFD\xC8%\x99\x85.\x1Dh\xC3\x07F\x15@`\x866\xE4t\xC2<;
+\x91\\7\xBFL'\x04\x89\xDCh`Rv*$\xB9V\x12L\xBD\xD6\x9E\x10\x0Ft\x84\x8C\x8A\xEB\x0C1\x1Ey\xFD\x15\x89\x84\x07\xDE\x19\xD1\xA0\x10\xF9\xC1\xE4\x00\x02\xE2M\x86\x99\x86\xDDd\x98%\x00\x1E|w\xCF?o:e\x03\x91\x00,gC\x08\xFD\x04\xF5\xA3~B0\xD6\x8D\x10\xF7\x14\x10b\x8Bhr\x83@\x92Gr\xD3\xA69\xDC$\x80\x84\x172\xD0\xC1F\xA4BP9\x10\x9D\\\xE1\xD9\x8D
+\xDB1\x05\x13\x12\x89\xCA\xE6 \x8A\x18\xA1\xD8\x96\x89\x85\xD6)D\xA8\xFB\x15\xC1h\x82F\xAC\x99\xD9Ik\x9A	@\x08\xA1>&\xE0/\\\x1Ef\xC3[\x00\x80\xE8\xE3\x93\xCC\xF9S)\xA9\xA9\x818\x1FB\\\x81\xD0^\xAD\xBBqCSG\x99\x15\xF1\x08N:\x01Z\xE2\x8Cy\xF6\xF9\x15\x82\x93}\x80\xC4v\x95\x11\xF1\xA5\xFE\xF9	J\xA76\x9A\xAE\x03\x82\x10\xDB-Y\x84QGX\xC7Mh68\xDB\x08\xF6\x02@\x93\xF4\xF3B\xC0\xDD\xFC\xFB*y\xF9\xF9kC8\xE3\xBC0\x9C\xC0B\x00\xEBh\xAA\x13\xB7\xD0O;\xFD>d\xC3\xAB\x00\xD4\xD0\xEF\x01 \x87\x8C\xC0\x015\xB4t\xEF\x1A\x12\x0C\xB1\x01\x04\x14\xD4\xD3\xCF\xBB\x1C\x0F\xD1\x11@\xEF\xD9J\x92\x11e\xAE\xD3\xEAz\x17\x0B\xC1`7\xCB\xF5\xEBpb\xE3%\x95\xB3\xB0\xB1\xF24\xEA\x9F\xDE\x02\x19!\x98\xDD\x80\x08\xACk\x80"dg\x81P\xF6\x83o?\xC2\x8A\xD8\xE1\x9A\xE2\xD2r\x95R\xE3\xC9\x9C&\xD9L\xD7[\xB6*\x10\x18"\x05\x04\xE7\x89\xD6\x91YpI\xE8\xC6\xF51\xB5Q}\x19\x06\xE7$P\x85\xBD\x8C6\x00\xD4y\x18\xAC\x95\xDB\x1Eq\x99[w\x89\xAC\x82d\x06$\xA9Bj=I6\x00	*\xEC\xA9jG\x97\xAB\xD0/.\xFB\x8Cc\xA2a\xDC\\m\xA0\x02IR	\xC0/\xF1B\xCDu\x8B\xAD\xFA\xA4\xFEd\x04\x1C#y\x92B\xE4,\xE8\x119Ac\xC33C\xE4W\x9B]I\xFA\x99 \xAE\x98Kn\xE9w\xB1\xAB\xD4T}\x87\xFA\x06\x80\xF2\xE3\xD5\x90\xAA\x9D\xE0\x01-\xFB8\xDF\x14\x01\xAC\x81\xE0\x93#\xBD\x99\xC8\xC0\xD6\x96K\xDE$\xD6\x96?\xE3!cU7\x8F9/\x1CF\xE7k\x85\x90sL{m\xE8\x9Dw\x1B?\xFD\x89\xB6\xAAR\xF6\xD6a'#\xC0\x83R+\x98\x94\x10\xD6\x84\x18\x01qHT\xAD\x99\x8C\\\x04\xA4\x8D\x07\x96ZL\x91\x0B\x9E\x10\xD2\xA6R\xEDK\x08/RP\x11`\x10\x8Ca\xD8\xE2\x01\x0F\xB8\xCF\x084 \x8Ck\x18i\x08!`a-<\xE0\x02[\xD0pU&4\x86Bj\x11 \x16\xF2B\x84\x1E\xD0\x05
+\x93\x12\x02\x14\x061\x85\xD7\xB0\x01\x0CN\xF8\x18\x15\\\x03t'T\x90\x0B\xD7\x92\xB9\x16^#(+\xDC!\xBE@\x01\x81!\xA0 [+\xB4EP\x12VC\x17\x8AF\x86.\xD4\x00\xBB\xB0q\xB3\x19\xA5\xB1\x16\xF8*\xE3\x1Bo\xC3\x16C[(\xE8\x03\xD8\xF0\x80\xC6|\x18Dy\xD5\xE4\x8F\xA4\xF8\x84: \xC8#(\x90\x88L\xA4"\x8F\x10\x98WX\x800G\x08U\x1B\x17I\xC9J\xCEB\x06S\xF0\x1D\x1B"P\x02J\x15!#\x08\xD9\x99%GIJId\xA2\xF2\x10B\x1E\xDAV\xCAV\xBA\xB2\x143\x90\x81,=I\x87Y\xBE\xF2\x96\xB8\xCC\xA5.w\xC9\xCB^\xFA\xF2\x97\xC0te\x10\x00\x00;
+$$$$$$ Response Body For Transaction With Id 490 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 492 ******
+GET /img/images.jpg HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+DNT: 1
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 492 Ended $$$$$$
+
+****** Response Header For Transaction With Id 492 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Content-Type: image/jpeg
+Last-Modified: Sat, 23 Aug 2014 12:27:05 GMT
+Accept-Ranges: bytes
+ETag: "85c1988ccdbecf1:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:15:28 GMT
+Content-Length: 1567
+
+
+$$$$$$ Response Header For Transaction With Id 492 Ended $$$$$$
+
+****** Response Body For Transaction With Id 492 ******
+\xFF\xD8\xFF\xE0\x00\x10JFIF\x00\x01\x01\x00\x00\x01\x00\x01\x00\x00\xFF\xDB\x00\x84\x00	\x06\x07\x08\x07\x06	\x08\x07\x08
+
+	\x0B\x16\x0F\x0C\x0C\x1B\x14\x15\x10\x16 \x1D"" \x1D\x1F\x1F$(4,$&1'\x1F\x1F-=-157:::#+?D?8C49:7\x01
+
+
+\x0C\x1A\x0F\x0F\x1A7%\x1F%77777777777777777777777777777777777777777777777777\xFF\xC0\x00\x11\x08\x00\xDD\x00X\x03\x01"\x00\x02\x11\x01\x03\x11\x01\xFF\xC4\x00\x18\x00\x00\x03\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x02\x03\x07\xFF\xC4\x00-\x10\x00\x01\x03\x03\x04\x02\x02\x01\x03\x04\x03\x00\x00\x00\x00\x00\x00\x01\x11\xB1\x02"\x82!#\x81\x83r\xC1s\xC2q3B\x91\x1212CA\x92\xD1\xFF\xC4\x00\x16\x01\x01\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x03\xFF\xC4\x00\x15\x11\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x11\xFF\xDA\x00\x0C\x03\x01\x00\x02\x11\x03\x11\x00?\x00\xEA
+\xBA\x7F\x00\xFA\xFF\x00$\xAA\xFA\x07\xFE\xDC\x99\xB2S\xFA\x07\xD7\x95'\xFA\xBD\x03\xCA\x80\xD5t_\xC2\x14\xFA\xF2\xA6o\xA7\x087\xD7\x95\x01\xBE\x9C!OvJf\xFAp\x85=\xF9(\x03\xDB\x8A\x14\xF7df\xF6\xE2\x85=\xD9\x00=\xB8\x81/n \x02\x7F@\xFA\xA7$?\xA0}S\x92"\x91t\xE1\x06\xF2\xA4>\x9C <\xA8\x14\xFAp\x83}rS7\xD3\x84\x1B\xEB\x92\x85S\xDB\x8A\xEF_%3{W\xC5
+{\x97\xC9@on(7\xBB#7\xB7\x14)\xEE\xC8 {p\xF62\x1E\xDC=\x80\x12\xFE\x86\xFE\xC8U\xFA\x83\xFB\x08\xA7\x84\x1A,\xA9\x0F\xA7\xF0\x0F\xAF5\x02\xA9\xF4\xE1\x06\xFA\xE4\xA4>\x9C =\xD9(Zon)%=\xD9)\x9B\xDA\xBE)%=\xF9\xAC\x02\x87\xB7\x14)\xF5\xCB\xD1\x9B\xDB\x8A\x14\xF7/\x9F\xA0P\xF6\xE3\xEC	{0\xF6\x01	W\xEA\x0F\xAF\xF2B\xAF\xD4\x1F\xECAj\xB6\xF0\x80\xFA\xF3Q\x0Fo\x087\xD7\x9A\x80o\xA7\x084[\xB2S7\xD3\x84)\x16\xEET\xA1\xBD\x8B\xE2\x92S\xDF\x9A\xC1\x93\xD8\xBE)%~\xF4\xF3X\x01\xBD\xB8$\x94\xF7g\xE8\xC9\xEC\xC1$\xA7\xBB?@7\xB3\x0F`C\xD9\x87\xB0"\x13\xFDA\xE6\xA2\x1F\xEA\x0F5\x01J\xB6\xF0\x83}y\xA8\x87\xB7\x84\x1B\xEB\xCD@5]\x17\xC5\x06\xF7eT\x10\xABj\xF8\xA0\xDE\xEC\xAA\x82P\xDE\xCCRJ{\xF3X2{pI)\xEF\xCD`P\xDE\xCC\x12J{\xB3\xF4d\xF6`\x92S\xDD\x9F\xA1C{\x13\xC3\xD8\x10\xFBx{\x01B\x7F\xA8\x7F\xEDD?\xD4\x15f\xA0\x8BU\xD1\x7F\x14\x8D\xF5\xE6\xA2\x1FN)\x07\xD7\x9A\x80oj\xF8\xA1OvUA\x9B\xD9\x8D27\xBB*\xA0\x06\xF6\xE0\x92S\xDF\x9A\xC1\x9B\xDB\x82IO~k\x00\x1F\xB3\x04\x92\x9E\xEC\xFD\x19=\x98$\x96\xF7\xE6\xB0\x00\xF6u\xFB\x11/\xB7\xD7\xEC\x00O\xAF\xFDA\xE6\xA2\x15b\x91\xBC\xD4AO\xA7\x14\x82.\xA9\xF9\xA8\x87\xD3\x8AF\x8B\xAA~j\x01\xBD\xB8\xD3%=\xD9U\x06On4\xC9ovU@\x03\xD9\x852R-\xF9\xAC\x19\xBD\x98S#E\xBF5\x80\x1A\xAD\x8B\xE0\x92S\xEEf\xB0e\xFDVu\xA4\x96\xFB\x9D\x8B\x00\x0Fg_\xB0!\xF6\xFA\xFD\x80BU\xFA\x8D\xF5\xE6\xA37\xFA\x8D\xF5\xE6\xA0U>\x9CR4[\x93\xF3Q\x9B\xC5#E\xBB*\x81M\xED\xC6\x99)\xEE\xCE\xA83{q\xA6F\xF7gT\x02\x9B\xD8\xBE\x14\xC9H\xB7\xA7\xC8\xB0d\x8Bf\x14\xC9h\xB7\xA7\x9A\xC0(U\xDB\xEBI-\xF7\x13\xE4X1}\xBE\xB4\x92\xDFs\xB1`%\x0Fg_\xB1\x12\xFB}~\xC0\x04\xFF\x00Q\xBC\xD6B\xAF\xD4\x1F^k \xA7\xD3\x8A\x06\xF7eT\x19\xBE\x9CPS\xDD\x95P\x03{q\xA6J{\xF3\xAA\x0C\x9E\xDCi\x92\x91o\xCE\xA8\x00}\xB5\xF0\xA6K\xFF\x00gePb\xFBk\xE1L\x9A>\xE7eP\x02U\xDB_\x8D$\xB7\xDDO\x91`\xC5Wm~4\x93G\xDDO\x91`\x04\x8B\xB7\xD7\xECD\xBE\xD7ZH\x82\x07\xFA\x8D\xF5\xE6\xB2\x1F\xEA7\xD7\x9A\xC0o\xA7\x14\x8D\x16\xEC\xAA\x82\x1FN)\x1A-\xD9U\x00\x0Ff4Io~uA\x97\xEC\xC2\x99)\x16\xFC\xEA\x80\x07\xDB\xC2\x99-\xF7;*\x83\x15]\xBC)\x92\xDFs\xB2\xA8\x00U\xDB_\x8D$\xD1\x17u>E\x83\x05]\xB5\xF8\xD2M\x1F{\xB1`	}\xAE\xBFc!\xF6\xBA\xFD\x81\x00\xF1@"\xDD\xCDd*\xC5\x00\x8Bw5\x84S\xDB\x8D\x12S\xDD\x95Pd\xF6\xE3D\x94\xF7e\\\x00=\x98\xD1%\xA2\xDF\x9DPd\xF6cD\x96\x8B\x7FeP\x02U\xDB\xC2\x99-\xF7;*\x83%\xFD<)\x92\xDFs\xB2\xA8\x02Uv\xD7\xE2I5}\xEE\xC5\x83\x05]\xB5\xF8\x92M_u>U\x80!\x17k\xAD$	}\xAE\xB4\x90\x14\x0F\x14\x03\xDD\xCDd*\xC5\x03}y\xAC\x81\xBD\xB8\xD1#{\xB2\xAE\x08_\xEC\xBE4H\xD3\xFC\xB2\xAE\x00of4IO\x7Fepd\xF6cD\x96\xF7\xF6W\x00%]\xBE\xBAd\xD1\xF7;*\x83\x05[:\xE9\x93D]\xCE\xCA\xA0\x04\xAB\xB6\xBF\x12I\xA3\xEFv\xAC\x18/\xE9\xAF\xC4\x92j\x9F\xAD\xDA\xB0\x04\xBE\xD7W\xB0!\xF6\xBA}\x80\x02\xACP4]y\xAC\xCDWN(\x1B\xEB\xCDdJ\xA7\xD3\x1A$h\xB7e\\\x19\xBE\x98\xD1#E\xB9<\xAB\x80SU\xB3\x1A$\xA7\xBF\xB2\xB82U\xB3
+$\xB7\xBF\xB2\xB8(J\xB6u\xD3%\xBE\xE7ePd\xABg]2Z.\xE7mP
+O\xB6\xBF\x12I\xA3\xEFv\xAC\x18*\xED\xAF\xC4\x92j\x8B\xBB\xDA\xB0
+\x97\xDA\xE9\xF6\x04>\xD7O\xB0!B\xACP\x0F\xAF5\x92\xBE\xA8\x1F\xFC\xF3X@\xFAcD\x94\x8BryW\x04/\xF6\xC6\x89\x1A\x7F\x92yW\x00
+\xB6/\x85\x12[\xDF\xD9\\\x19=\x98Q%\xFE\xFE\xCA\xE0\x04\xABg]2[\xEEv\xD5\x06\x1F\xEB\xEB\xA6MS\xF5;j\x80%Wi~$\x93G\xDE\xEDX0U\xDA_\x85$\xD5\xF7{V\x00\x87\xDA\xE9\xF6\x04\xBE\xD7O\xB0\x03\xFF\xD9
+$$$$$$ Response Body For Transaction With Id 492 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 437 ******
+	web_url("LoadRunner_Correlation_Challenge_Exp.aspx",
+		"URL=http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t14.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://detectportal.firefox.com/success.txt", "Referer=", ENDITEM,
+		"Url=/img/images.jpg", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 437 Ended $$$$$$
+
+****** Request Header For Transaction With Id 495 ******
+GET /favicon.ico HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 495 Ended $$$$$$
+
+****** Response Header For Transaction With Id 495 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Content-Type: image/x-icon
+Last-Modified: Mon, 08 Sep 2014 22:29:46 GMT
+Accept-Ranges: bytes
+ETag: "4f69d164b4cbcf1:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:15:28 GMT
+Content-Length: 1150
+
+
+$$$$$$ Response Header For Transaction With Id 495 Ended $$$$$$
+
+****** Response Body For Transaction With Id 495 ******
+\x00\x00\x01\x00\x01\x00\x10\x10\x00\x00\x01\x00 \x00h\x04\x00\x00\x16\x00\x00\x00(\x00\x00\x00\x10\x00\x00\x00 \x00\x00\x00\x01\x00 \x00\x00\x00\x00\x00\x00\x04\x00\x00\x12\x0B\x00\x00\x12\x0B\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFD\xFD\xFC\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFA\xFB\xF9\xFF\xCC\xD6\xC7\xFF\xF7\xF8\xF7\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFD\xFD\xFD\xFF\xFF\xFF\xFF\xFF\xD0\xDC\xCB\xFF\x1ER\x08\xFF\xDC\xE1\xDB\xFF\xFF\xFF\xFF\xFF\xFD\xFE\xFD\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFC\xFD\xFC\xFF\xFB\xFC\xFB\xFF\xFB\xFC\xFB\xFF\xFA\xFB\xF9\xFF\xFF\xFF\xFF\xFF\xCA\xD7\xC4\xFF\x15M\x00\xFF\xAC\xBC\xA5\xFF\xFF\xFF\xFF\xFF\xFB\xFC\xFA\xFF\xFE\xFE\xFD\xFF\xFD\xFD\xFD\xFF\xFC\xFD\xFC\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFC\xFC\xFB\xFF\xFF\xFF\xFF\xFF\xB2\xC4\xAA\xFF\x08D\x00\xFFp\x8Ec\xFF\xFF\xFF\xFF\xFF\xFC\xFD\xFC\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\x8E\xA9\x82\xFFr\x94c\xFFr\x95d\xFF\xA0\xB4\x97\xFF\xFF\xFF\xFF\xFF\x96\xAD\x8C\xFFEq2\xFFVzG\xFF\xE3\xE4\xE2\xFF\xEE\xF3\xEC\xFF\xE4\xEA\xE1\xFF\xD1\xD9\xCE\xFF\xBD\xCA\xB8\xFF\xFC\xFB\xFC\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xAA\xBE\xA1\xFF\x99\xB2\x8E\xFF\x88\xA4|\xFFBk2\xFF\xFB\xFA\xFC\xFFCp1\xFF\xBC\xCC\xB6\xFF\x94\xA9\x8B\xFFa\x80T\xFFKu:\xFF3d\x1D\xFF#X\x11\xFF\x10F\x02\xFF\xDD\xE0\xDA\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFFQvB\xFF\xBD\xC9\xB9\xFFNy<\xFF\xD5\xE0\xD0\xFF\xDC\xE0\xDA\xFF\x14K\x00\xFF\x87\xA1}\xFF\xFC\xFD\xFC\xFF\xBE\xCF\xB8\xFF\x9E\xB4\x95\xFF\xFD\xFC\xFD\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFC\xFD\xFC\xFF\xF8\xFA\xF7\xFF\xFF\xFF\xFF\xFF}\x97q\xFFx\x94l\xFFEr2\xFF\xDD\xE6\xD9\xFF\xFA\xF8\xFA\xFFOs?\xFF\xE5\xE9\xE3\xFF\xFF\xFF\xFF\xFF\xFE\xFE\xFE\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFC\xFD\xFC\xFF\xFF\xFF\xFF\xFF\xBC\xC9\xB6\xFF>f.\xFFIs7\xFF\xF0\xF4\xEE\xFF\xFF\xFE\xFF\xFF\xCE\xD3\xCB\xFF\xFE\xFF\xFE\xFF\xFE\xFE\xFE\xFF\xFD\xFD\xFC\xFF\xFC\xFC\xFB\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFE\xFE\xFE\xFF\xFF\xFF\xFF\xFF\xEB\xEC\xEA\xFF,\\\x18\xFF>m+\xFF\xFA\xFB\xF9\xFF\xFF\xFF\xFF\xFF\xFE\xFE\xFE\xFF\xFE\xFF\xFE\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFD\xFE\xFD\xFF\xFF\xFF\xFF\xFFV|F\xFFFt3\xFF\xFF\xFF\xFF\xFF\xFE\xFE\xFE\xFF\xFE\xFE\xFD\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFC\xFD\xFC\xFF\xFF\xFF\xFF\xFF\x8F\xA5\x86\xFFc\x88S\xFF\xFF\xFF\xFF\xFF\xFD\xFE\xFD\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xF4\xF5\xF3\xFF\xF6\xF8\xF5\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Response Body For Transaction With Id 495 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 437 ******
+	web_url("LoadRunner_Correlation_Challenge_Exp.aspx",
+		"URL=http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t14.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://detectportal.firefox.com/success.txt", "Referer=", ENDITEM,
+		"Url=/img/images.jpg", ENDITEM,
+		"Url=/favicon.ico", "Referer=", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 437 Ended $$$$$$
+
+****** Request Header For Transaction With Id 508 ******
+GET /success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 508 Ended $$$$$$
+
+****** Response Header For Transaction With Id 508 ******
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 8
+Last-Modified: Mon, 15 May 2017 18:04:40 GMT
+ETag: "ae780585f49b94ce1444eb7d28906123"
+Accept-Ranges: bytes
+Server: AmazonS3
+X-Amz-Cf-Id: iN3GJP2zyKiHN0gIh_csU4FG7p4N-XBGuZZHagwsiHOJTpI7O3gFSg==
+Cache-Control: no-cache, no-store, must-revalidate
+Date: Thu, 14 Mar 2019 20:15:29 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 508 Ended $$$$$$
+
+****** Response Body For Transaction With Id 508 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 508 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 515 ******
+POST /LoadRunner_Correlation_Challenge_Exp.aspx HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 265
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+$$$$$$ Request Header For Transaction With Id 515 Ended $$$$$$
+
+****** Request Body For Transaction With Id 515 ******
+__VIEWSTATE=%2FwEPDwUKLTMwNzk0OTUxN2RkiNLWKXvunUPD8hG0KuCM1zvFDlEueuKlFq9Ah2nRCFs%3D&__VIEWSTATEGENERATOR=C6B83A63&__EVENTVALIDATION=%2FwEdAAKWnP2BiipA7Vh6gBcOxe%2BZnlbekVM3R%2Fa0oKRYPLuOROBA%2BqK0GCZSpP%2Fyx2fl48xlKgVbMzkVLSKcmxdh1d24&ctl00%24head%24btnStart=Start
+$$$$$$ Request Body For Transaction With Id 515 Ended $$$$$$
+
+****** Response Header For Transaction With Id 515 ******
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-AspNet-Version: 4.0.30319
+Set-Cookie: ASP.NET_SessionId=upjvef4mlmls4z4wyci1h4ov; path=/; HttpOnly
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:15:40 GMT
+Content-Length: 3539
+
+
+$$$$$$ Response Header For Transaction With Id 515 Ended $$$$$$
+
+****** Response Body For Transaction With Id 515 ******
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	LoadRunner:Correlation Challenge
+</title>
+    <script type="text/javascript" src="JS/JScript_CC.js"></script>
+    <link href="JS/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+       
+        .style1
+        {
+            height: 39px;
+        }
+       
+    </style>
+   <script>
+       (function (i, s, o, g, r, a, m) {
+           i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+               (i[r].q = i[r].q || []).push(arguments)
+           }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+       })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+       ga('create', 'UA-54539864-2', 'auto');
+       ga('send', 'pageview');
+
+</script>
+    <meta name="keywords" content="LoadRunner Correlation practice, LR Correlation practice, LoadRunner Correlation Challenge, LR Correlation Challenge, Loadrunner, LR, Correlation, VeGen, LR scripting, LoadRunner Scripting Correlation practice, LR Scripting Correlation practice" /><meta name="description" content="Welcome to the Correlation Challenge. I have condensed some of the types of correlation problems I have encountered in real web applications (ranging from relatively easy, to fairly difficult) into this exercise. You should be able to manually navigate through the Challenge with no problems, but creating a LoadRunner/VuGen script that will do the same thing will take a non-trivial amount of effort. Please treat this as a training exercise. If you can get to the end of this exercise by yourself, then you can correlate with the best of them" /></head>
+<body style=" padding:0px; margin:0px;background-color:#EFEFEF; font:Arial;">
+
+    <form method="post" action="./LoadRunner_Correlation_Challenge_Exp.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMwNzk0OTUxN2RkiNLWKXvunUPD8hG0KuCM1zvFDlEueuKlFq9Ah2nRCFs=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C6B83A63" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOWnP2BiipA7Vh6gBcOxe+Z6PRGMN1wyLzpD3MQpHTtazrXPBqUZcs4yqSWpp6/FIRKgSZuk/G1OuYWU/xkFyiKC6e0ZUHFytLotgts8nebxg==" />
+</div>
+    <div style=" border-width: 1px; border-color: #000000; position:fixed; width:100%; background-color: #0066CC; padding-top:0px; border-bottom-style: solid;">
+        <table  cellspacing="0" cellpadding="0"  style=" background:url('img/images.jpg'); background-repeat:repeat-x; width:100%; padding:0px">
+            <tr>
+                <td width="20%">
+           
+            <a id="HyperLink1" style="display:inline-block;border-style:None;font-family:Arial;font-weight:bold; text-decoration:none"><img src="IMG/LR.gif" alt="LR Tricks" /></a>
+           </td>
+                <td width="60%" valign="top" align="left">
+                    <br />
+                        <ul id="trans-nav" >
+                        <li><a href="Index.htm">Home</a></li>
+                         <li><a href="">Training</a>
+                                 <ul>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Load Runner</a></li>
+                                <li><a href="VuGen/Load_Runner_VuGen_Home.htm">VuGen</a></li>
+                                <li><a href="Controller/Controller.htm">Controller</a></li>
+                                <li><a href="AN/Load_Runner_Analysis.htm">Analysis</a></li>
+                                <li><a href="PT/Performance_Testing.htm">Performance Testing</a></li>
+                                <li><a href="PT/Performance_Tuning.htm">Performance Tuning</a></li>
+                                <li><a href="LR_Error/Load_Runner_Errors.htm">Load Runner Errors</a></li>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Interview Question</a></li>
+                                </ul>
+                          </li>
+                        <li><a href="Tool/Tool.htm">Tools    </a>
+                              <ul>
+                                <li><a href="LoadRunner_transaction_naming_tool.aspx">Transaction Naming</a></li>
+                                <li><a href="LoadRunner_Correlation_Finder.aspx">Correlation Finder</a></li>
+                                <li><a href="ENDE.aspx">URLEncode/URLDecode</a></li>
+                                <li><a href="Tool/Free_Website_Automation_from_Excel.htm">Web Automation by Excel</a></li>
+                                <li><a href="Tool/Free_Load_Testing_From_Excel.htm">Load Test by Excel</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Correlation Challenge</a>
+                            <ul>
+                                <li><a href="#">Challenge for Beginners</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Mod.aspx">Challenge for Modrate</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Exp.aspx">Challenge for Expert</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="About.aspx">About</a></li>
+                    </ul>                        
+                    </td>
+                <td align="left" width="20%">
+   
+            &nbsp;</td>
+            </tr>
+        </table>
+    </div>
+        <table cellpadding="0" cellspacing="0" style=" width:100%; padding-top:40px ">
+            <tr>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+                <td width="60%" 
+                    
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; padding: 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid;" 
+                    class="style1">
+                   
+                       
+                      
+                </td>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                   </td>
+                <td valign="top" width="60%" 
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+                    <div style="border-top-style: solid; border-bottom-style: solid; border-width: 1px; border-color: #000000">
+                     </div>
+                    
+    <div style=" margin:10px;font-family:Verdana">
+<div>
+    
+    <div id="head_divStep1">
+        <p style="margin-left: 40px">
+            <strong>Step 1</strong><br />
+        <br />
+        <span id="head_lblQname">Enter City Name 'Alwar' in textbox & click Next.</span>
+            <br />
+        <br />
+        <input name="ctl00$head$QNo1.8" type="text" id="head_QNo1.8" />
+        <input type="submit" name="ctl00$head$btnNext" value="Next" id="head_btnNext" />
+        </p>
+    </div>
+    
+    
+    
+    </div>
+    </div>
+    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- H_Page -->
+                        <ins class="adsbygoogle"
+                             style="display:inline-block;width:728px;height:90px"
+                             data-ad-client="ca-pub-2242131967064788"
+                             data-ad-slot="2118144356"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                </td>
+                <td width="20%" align="center" valign="top" >
+                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+                <td width="60%" align="center" valign="top">
+                <br />
+                   
+                    <br />
+                    <div id="divTags" align="center" style="background-color: #000000; color:Gray; padding:10px">
+                    
+                     <strong>FIND MORE ON LOAD RUNNER TIPS</strong><br /> |
+                     <a href="Load_Runner/Load_Runner_Home.htm" class="tadA">About Load Runner</a> |
+                     <a href="VuGen/Load_Runner_VuGen_Home.htm" class="tadA">Creating scripts in Load Runner</a> |
+                     <a href="Controller/Controller.htm" class="tadA">Load Runner scenario</a> |
+                     <a href="AN/Load_Runner_Analysis.htm" class="tadA">LR Analysis</a> |
+                     <a href="PT/Performance_Tuning.htm" class="tadA">Performance Tuning </a> |
+                     <a href="PT/Performance_Testing.htm" class="tadA">Performance Testing</a> |
+                     <a href="LR_Error/Load_Runner_Errors.htm" class="tadA">LR Errors</a> |
+                     <a href="Interview_Question/Interview_question_home.htm" class="tadA">Interview Question</a> |
+                     <a href="Tool/Tool.htm" class="tadA">Load Runner Tool</a> |
+                     <a href="LoadRunner_Correlation_Challenge_Mod.aspx" class="tadA">Correlation Practice</a> |
+                     <a href="SiteMap.aspx" class="tadA">Site Map</a> |
+                    
+                 </div>
+                 </td>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+            </tr>
+        </table>
+
+    </form>
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 515 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 515 ****** (Location Flag : tFlagInsertEnd, Location ID : 515)
+	web_submit_form("LoadRunner_Correlation_Challenge_Exp.aspx_2",
+		"Snapshot=t15.inf",
+		ITEMDATA,
+		"Name=ctl00$head$btnStart", "Value=Start", ENDITEM,
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 515 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 437)
+	web_add_auto_header("DNT",
+		"1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 437)
+	web_add_auto_header("Upgrade-Insecure-Requests",
+		"1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 521 ******
+POST /LoadRunner_Correlation_Challenge_Exp.aspx HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 319
+Cookie: ASP.NET_SessionId=upjvef4mlmls4z4wyci1h4ov
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+$$$$$$ Request Header For Transaction With Id 521 Ended $$$$$$
+
+****** Request Body For Transaction With Id 521 ******
+__VIEWSTATE=%2FwEPDwUKLTMwNzk0OTUxN2RkiNLWKXvunUPD8hG0KuCM1zvFDlEueuKlFq9Ah2nRCFs%3D&__VIEWSTATEGENERATOR=C6B83A63&__EVENTVALIDATION=%2FwEdAAOWnP2BiipA7Vh6gBcOxe%2BZ6PRGMN1wyLzpD3MQpHTtazrXPBqUZcs4yqSWpp6%2FFIRKgSZuk%2FG1OuYWU%2FxkFyiKC6e0ZUHFytLotgts8nebxg%3D%3D&ctl00%24head%24QNo1.8=Alwar&ctl00%24head%24btnNext=Next
+$$$$$$ Request Body For Transaction With Id 521 Ended $$$$$$
+
+****** Response Header For Transaction With Id 521 ******
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:15:49 GMT
+Content-Length: 4670
+
+
+$$$$$$ Response Header For Transaction With Id 521 Ended $$$$$$
+
+****** Response Body For Transaction With Id 521 ******
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	LoadRunner:Correlation Challenge
+</title>
+    <script type="text/javascript" src="JS/JScript_CC.js"></script>
+    <link href="JS/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+       
+        .style1
+        {
+            height: 39px;
+        }
+       
+    </style>
+   <script>
+       (function (i, s, o, g, r, a, m) {
+           i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+               (i[r].q = i[r].q || []).push(arguments)
+           }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+       })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+       ga('create', 'UA-54539864-2', 'auto');
+       ga('send', 'pageview');
+
+</script>
+    <meta name="keywords" content="LoadRunner Correlation practice, LR Correlation practice, LoadRunner Correlation Challenge, LR Correlation Challenge, Loadrunner, LR, Correlation, VeGen, LR scripting, LoadRunner Scripting Correlation practice, LR Scripting Correlation practice" /><meta name="description" content="Welcome to the Correlation Challenge. I have condensed some of the types of correlation problems I have encountered in real web applications (ranging from relatively easy, to fairly difficult) into this exercise. You should be able to manually navigate through the Challenge with no problems, but creating a LoadRunner/VuGen script that will do the same thing will take a non-trivial amount of effort. Please treat this as a training exercise. If you can get to the end of this exercise by yourself, then you can correlate with the best of them" /></head>
+<body style=" padding:0px; margin:0px;background-color:#EFEFEF; font:Arial;">
+
+    <form method="post" action="./LoadRunner_Correlation_Challenge_Exp.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMwNzk0OTUxN2RkiNLWKXvunUPD8hG0KuCM1zvFDlEueuKlFq9Ah2nRCFs=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=Dni4Dwp2sE7BkxnwJrEAA5649Tlmnpvwn2La2DRwkPVt5D7zaVMO-EzSoZ_dVp6PBIJvfHbzOMQZeZkiuwwsKjfi5gBPV8iFZodpTRMsMug1&amp;t=636765212300000000" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=_ik9MG88W60F3HCI3_iYhWbegkhYG7ydNd13f4OiDs4o4SXDkA3axp76aGF6nX2u8QN6h5kURIRHRFRTQRGwTHWg_sLQ5n4rRo3B6oaZXaI1&amp;t=636765212300000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C6B83A63" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOWnP2BiipA7Vh6gBcOxe+ZSO+Wfz2F0XL9o5yAz8EC1b3Xi43vGp6xNVoz7qryOS/S7SlWgTcSbUWojoSNMoUrQT7bi9WP+udiADw7LOjM7g==" />
+</div>
+    <div style=" border-width: 1px; border-color: #000000; position:fixed; width:100%; background-color: #0066CC; padding-top:0px; border-bottom-style: solid;">
+        <table  cellspacing="0" cellpadding="0"  style=" background:url('img/images.jpg'); background-repeat:repeat-x; width:100%; padding:0px">
+            <tr>
+                <td width="20%">
+           
+            <a id="HyperLink1" style="display:inline-block;border-style:None;font-family:Arial;font-weight:bold; text-decoration:none"><img src="IMG/LR.gif" alt="LR Tricks" /></a>
+           </td>
+                <td width="60%" valign="top" align="left">
+                    <br />
+                        <ul id="trans-nav" >
+                        <li><a href="Index.htm">Home</a></li>
+                         <li><a href="">Training</a>
+                                 <ul>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Load Runner</a></li>
+                                <li><a href="VuGen/Load_Runner_VuGen_Home.htm">VuGen</a></li>
+                                <li><a href="Controller/Controller.htm">Controller</a></li>
+                                <li><a href="AN/Load_Runner_Analysis.htm">Analysis</a></li>
+                                <li><a href="PT/Performance_Testing.htm">Performance Testing</a></li>
+                                <li><a href="PT/Performance_Tuning.htm">Performance Tuning</a></li>
+                                <li><a href="LR_Error/Load_Runner_Errors.htm">Load Runner Errors</a></li>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Interview Question</a></li>
+                                </ul>
+                          </li>
+                        <li><a href="Tool/Tool.htm">Tools    </a>
+                              <ul>
+                                <li><a href="LoadRunner_transaction_naming_tool.aspx">Transaction Naming</a></li>
+                                <li><a href="LoadRunner_Correlation_Finder.aspx">Correlation Finder</a></li>
+                                <li><a href="ENDE.aspx">URLEncode/URLDecode</a></li>
+                                <li><a href="Tool/Free_Website_Automation_from_Excel.htm">Web Automation by Excel</a></li>
+                                <li><a href="Tool/Free_Load_Testing_From_Excel.htm">Load Test by Excel</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Correlation Challenge</a>
+                            <ul>
+                                <li><a href="#">Challenge for Beginners</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Mod.aspx">Challenge for Modrate</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Exp.aspx">Challenge for Expert</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="About.aspx">About</a></li>
+                    </ul>                        
+                    </td>
+                <td align="left" width="20%">
+   
+            &nbsp;</td>
+            </tr>
+        </table>
+    </div>
+        <table cellpadding="0" cellspacing="0" style=" width:100%; padding-top:40px ">
+            <tr>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+                <td width="60%" 
+                    
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; padding: 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid;" 
+                    class="style1">
+                   
+                       
+                      
+                </td>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                   </td>
+                <td valign="top" width="60%" 
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+                    <div style="border-top-style: solid; border-bottom-style: solid; border-width: 1px; border-color: #000000">
+                     </div>
+                    
+    <div style=" margin:10px;font-family:Verdana">
+<div>
+    
+    
+    <div id="head_divStep2" style="margin-left: 40px">
+        <strong>Step 2</strong><br />
+        <br />
+        Enter the following number in the field below and press Next:<br />
+        <br />
+        <div id="head_divDDL"><strong>
+
+
+
+
+15637
+</div>
+        <input name="ctl00$head$txtMagicNo" type="password" id="head_txtMagicNo" style="height:21px;width:38px;" />
+        <span id="head_RequiredFieldValidator1" style="color:#FF3300;display:none;">*</span>
+        <input type="submit" name="ctl00$head$btnStep2" value="Next" onclick="return dd(&#39;1882768740&#39;);WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$head$btnStep2&quot;, &quot;&quot;, true, &quot;2&quot;, &quot;&quot;, false, false))" id="head_btnStep2" />
+        <br />
+    </div>
+    
+    
+    </div>
+    </div>
+    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- H_Page -->
+                        <ins class="adsbygoogle"
+                             style="display:inline-block;width:728px;height:90px"
+                             data-ad-client="ca-pub-2242131967064788"
+                             data-ad-slot="2118144356"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                </td>
+                <td width="20%" align="center" valign="top" >
+                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+                <td width="60%" align="center" valign="top">
+                <br />
+                   
+                    <br />
+                    <div id="divTags" align="center" style="background-color: #000000; color:Gray; padding:10px">
+                    
+                     <strong>FIND MORE ON LOAD RUNNER TIPS</strong><br /> |
+                     <a href="Load_Runner/Load_Runner_Home.htm" class="tadA">About Load Runner</a> |
+                     <a href="VuGen/Load_Runner_VuGen_Home.htm" class="tadA">Creating scripts in Load Runner</a> |
+                     <a href="Controller/Controller.htm" class="tadA">Load Runner scenario</a> |
+                     <a href="AN/Load_Runner_Analysis.htm" class="tadA">LR Analysis</a> |
+                     <a href="PT/Performance_Tuning.htm" class="tadA">Performance Tuning </a> |
+                     <a href="PT/Performance_Testing.htm" class="tadA">Performance Testing</a> |
+                     <a href="LR_Error/Load_Runner_Errors.htm" class="tadA">LR Errors</a> |
+                     <a href="Interview_Question/Interview_question_home.htm" class="tadA">Interview Question</a> |
+                     <a href="Tool/Tool.htm" class="tadA">Load Runner Tool</a> |
+                     <a href="LoadRunner_Correlation_Challenge_Mod.aspx" class="tadA">Correlation Practice</a> |
+                     <a href="SiteMap.aspx" class="tadA">Site Map</a> |
+                    
+                 </div>
+                 </td>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+            </tr>
+        </table>
+
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("head_RequiredFieldValidator1"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var head_RequiredFieldValidator1 = document.all ? document.all["head_RequiredFieldValidator1"] : document.getElementById("head_RequiredFieldValidator1");
+head_RequiredFieldValidator1.controltovalidate = "head_txtMagicNo";
+head_RequiredFieldValidator1.focusOnError = "t";
+head_RequiredFieldValidator1.errormessage = "*";
+head_RequiredFieldValidator1.display = "Dynamic";
+head_RequiredFieldValidator1.validationGroup = "2";
+head_RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+head_RequiredFieldValidator1.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        //]]>
+</script>
+</form>
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 521 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 521 ****** (Location Flag : tFlagInsertEnd, Location ID : 521)
+	web_submit_form("LoadRunner_Correlation_Challenge_Exp.aspx_3",
+		"Snapshot=t16.inf",
+		ITEMDATA,
+		"Name=ctl00$head$QNo1.8", "Value=Alwar", ENDITEM,
+		"Name=ctl00$head$btnNext", "Value=Next", ENDITEM,
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 521 Ended $$$$$$
+
+****** Request Header For Transaction With Id 525 ******
+GET /WebResource.axd?d=Dni4Dwp2sE7BkxnwJrEAA5649Tlmnpvwn2La2DRwkPVt5D7zaVMO-EzSoZ_dVp6PBIJvfHbzOMQZeZkiuwwsKjfi5gBPV8iFZodpTRMsMug1&t=636765212300000000 HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+Cookie: ASP.NET_SessionId=upjvef4mlmls4z4wyci1h4ov
+DNT: 1
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 525 Ended $$$$$$
+
+****** Response Header For Transaction With Id 525 ******
+HTTP/1.1 200 OK
+Cache-Control: public
+Content-Type: application/x-javascript
+Content-Encoding: gzip
+Expires: Fri, 13 Mar 2020 20:15:49 GMT
+Last-Modified: Wed, 31 Oct 2018 01:33:50 GMT
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:15:49 GMT
+Content-Length: 6007
+
+
+$$$$$$ Response Header For Transaction With Id 525 Ended $$$$$$
+
+****** Response Body For Transaction With Id 525 ******
+function WebForm_PostBackOptions(eventTarget, eventArgument, validation, validationGroup, actionUrl, trackFocus, clientSubmit) {
+    this.eventTarget = eventTarget;
+    this.eventArgument = eventArgument;
+    this.validation = validation;
+    this.validationGroup = validationGroup;
+    this.actionUrl = actionUrl;
+    this.trackFocus = trackFocus;
+    this.clientSubmit = clientSubmit;
+}
+function WebForm_DoPostBackWithOptions(options) {
+    var validationResult = true;
+    if (options.validation) {
+        if (typeof(Page_ClientValidate) == 'function') {
+            validationResult = Page_ClientValidate(options.validationGroup);
+        }
+    }
+    if (validationResult) {
+        if ((typeof(options.actionUrl) != "undefined") && (options.actionUrl != null) && (options.actionUrl.length > 0)) {
+            theForm.action = options.actionUrl;
+        }
+        if (options.trackFocus) {
+            var lastFocus = theForm.elements["__LASTFOCUS"];
+            if ((typeof(lastFocus) != "undefined") && (lastFocus != null)) {
+                if (typeof(document.activeElement) == "undefined") {
+                    lastFocus.value = options.eventTarget;
+                }
+                else {
+                    var active = document.activeElement;
+                    if ((typeof(active) != "undefined") && (active != null)) {
+                        if ((typeof(active.id) != "undefined") && (active.id != null) && (active.id.length > 0)) {
+                            lastFocus.value = active.id;
+                        }
+                        else if (typeof(active.name) != "undefined") {
+                            lastFocus.value = active.name;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    if (options.clientSubmit) {
+        __doPostBack(options.eventTarget, options.eventArgument);
+    }
+}
+var __pendingCallbacks = new Array();
+var __synchronousCallBackIndex = -1;
+function WebForm_DoCallback(eventTarget, eventArgument, eventCallback, context, errorCallback, useAsync) {
+    var postData = __theFormPostData +
+                "__CALLBACKID=" + WebForm_EncodeCallback(eventTarget) +
+                "&__CALLBACKPARAM=" + WebForm_EncodeCallback(eventArgument);
+    if (theForm["__EVENTVALIDATION"]) {
+        postData += "&__EVENTVALIDATION=" + WebForm_EncodeCallback(theForm["__EVENTVALIDATION"].value);
+    }
+    var xmlRequest,e;
+    try {
+        xmlRequest = new XMLHttpRequest();
+    }
+    catch(e) {
+        try {
+            xmlRequest = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        catch(e) {
+        }
+    }
+    var setRequestHeaderMethodExists = true;
+    try {
+        setRequestHeaderMethodExists = (xmlRequest && xmlRequest.setRequestHeader);
+    }
+    catch(e) {}
+    var callback = new Object();
+    callback.eventCallback = eventCallback;
+    callback.context = context;
+    callback.errorCallback = errorCallback;
+    callback.async = useAsync;
+    var callbackIndex = WebForm_FillFirstAvailableSlot(__pendingCallbacks, callback);
+    if (!useAsync) {
+        if (__synchronousCallBackIndex != -1) {
+            __pendingCallbacks[__synchronousCallBackIndex] = null;
+        }
+        __synchronousCallBackIndex = callbackIndex;
+    }
+    if (setRequestHeaderMethodExists) {
+        xmlRequest.onreadystatechange = WebForm_CallbackComplete;
+        callback.xmlRequest = xmlRequest;
+        // e.g. http:
+        var action = theForm.action || document.location.pathname, fragmentIndex = action.indexOf('#');
+        if (fragmentIndex !== -1) {
+            action = action.substr(0, fragmentIndex);
+        }
+        if (!__nonMSDOMBrowser) {
+            var domain = "";
+            var path = action;
+            var query = "";
+            var queryIndex = action.indexOf('?');
+            if (queryIndex !== -1) {
+                query = action.substr(queryIndex);
+                path = action.substr(0, queryIndex);
+            }
+            if (path.indexOf("%") === -1) {
+                // domain may or may not be present (e.g. action of "foo.aspx" vs "http:
+                if (/^https?\:\/\/.*$/gi.test(path)) {
+                    var domainPartIndex = path.indexOf("\/\/") + 2;
+                    var slashAfterDomain = path.indexOf("/", domainPartIndex);
+                    if (slashAfterDomain === -1) {
+                        // entire url is the domain (e.g. "http:
+                        domain = path;
+                        path = "";
+                    }
+                    else {
+                        domain = path.substr(0, slashAfterDomain);
+                        path = path.substr(slashAfterDomain);
+                    }
+                }
+                action = domain + encodeURI(path) + query;
+            }
+        }
+        xmlRequest.open("POST", action, true);
+        xmlRequest.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=utf-8");
+        xmlRequest.send(postData);
+        return;
+    }
+    callback.xmlRequest = new Object();
+    var callbackFrameID = "__CALLBACKFRAME" + callbackIndex;
+    var xmlRequestFrame = document.frames[callbackFrameID];
+    if (!xmlRequestFrame) {
+        xmlRequestFrame = document.createElement("IFRAME");
+        xmlRequestFrame.width = "1";
+        xmlRequestFrame.height = "1";
+        xmlRequestFrame.frameBorder = "0";
+        xmlRequestFrame.id = callbackFrameID;
+        xmlRequestFrame.name = callbackFrameID;
+        xmlRequestFrame.style.position = "absolute";
+        xmlRequestFrame.style.top = "-100px"
+        xmlRequestFrame.style.left = "-100px";
+        try {
+            if (callBackFrameUrl) {
+                xmlRequestFrame.src = callBackFrameUrl;
+            }
+        }
+        catch(e) {}
+        document.body.appendChild(xmlRequestFrame);
+    }
+    var interval = window.setInterval(function() {
+        xmlRequestFrame = document.frames[callbackFrameID];
+        if (xmlRequestFrame && xmlRequestFrame.document) {
+            window.clearInterval(interval);
+            xmlRequestFrame.document.write("");
+            xmlRequestFrame.document.close();
+            xmlRequestFrame.document.write('<html><body><form method="post"><input type="hidden" name="__CALLBACKLOADSCRIPT" value="t"></form></body></html>');
+            xmlRequestFrame.document.close();
+            xmlRequestFrame.document.forms[0].action = theForm.action;
+            var count = __theFormPostCollection.length;
+            var element;
+            for (var i = 0; i < count; i++) {
+                element = __theFormPostCollection[i];
+                if (element) {
+                    var fieldElement = xmlRequestFrame.document.createElement("INPUT");
+                    fieldElement.type = "hidden";
+                    fieldElement.name = element.name;
+                    fieldElement.value = element.value;
+                    xmlRequestFrame.document.forms[0].appendChild(fieldElement);
+                }
+            }
+            var callbackIdFieldElement = xmlRequestFrame.document.createElement("INPUT");
+            callbackIdFieldElement.type = "hidden";
+            callbackIdFieldElement.name = "__CALLBACKID";
+            callbackIdFieldElement.value = eventTarget;
+            xmlRequestFrame.document.forms[0].appendChild(callbackIdFieldElement);
+            var callbackParamFieldElement = xmlRequestFrame.document.createElement("INPUT");
+            callbackParamFieldElement.type = "hidden";
+            callbackParamFieldElement.name = "__CALLBACKPARAM";
+            callbackParamFieldElement.value = eventArgument;
+            xmlRequestFrame.document.forms[0].appendChild(callbackParamFieldElement);
+            if (theForm["__EVENTVALIDATION"]) {
+                var callbackValidationFieldElement = xmlRequestFrame.document.createElement("INPUT");
+                callbackValidationFieldElement.type = "hidden";
+                callbackValidationFieldElement.name = "__EVENTVALIDATION";
+                callbackValidationFieldElement.value = theForm["__EVENTVALIDATION"].value;
+                xmlRequestFrame.document.forms[0].appendChild(callbackValidationFieldElement);
+            }
+            var callbackIndexFieldElement = xmlRequestFrame.document.createElement("INPUT");
+            callbackIndexFieldElement.type = "hidden";
+            callbackIndexFieldElement.name = "__CALLBACKINDEX";
+            callbackIndexFieldElement.value = callbackIndex;
+            xmlRequestFrame.document.forms[0].appendChild(callbackIndexFieldElement);
+            xmlRequestFrame.document.forms[0].submit();
+        }
+    }, 10);
+}
+function WebForm_CallbackComplete() {
+    for (var i = 0; i < __pendingCallbacks.length; i++) {
+        callbackObject = __pendingCallbacks[i];
+        if (callbackObject && callbackObject.xmlRequest && (callbackObject.xmlRequest.readyState == 4)) {
+            if (!__pendingCallbacks[i].async) {
+                __synchronousCallBackIndex = -1;
+            }
+            __pendingCallbacks[i] = null;
+            var callbackFrameID = "__CALLBACKFRAME" + i;
+            var xmlRequestFrame = document.getElementById(callbackFrameID);
+            if (xmlRequestFrame) {
+                xmlRequestFrame.parentNode.removeChild(xmlRequestFrame);
+            }
+            WebForm_ExecuteCallback(callbackObject);
+        }
+    }
+}
+function WebForm_ExecuteCallback(callbackObject) {
+    var response = callbackObject.xmlRequest.responseText;
+    if (response.charAt(0) == "s") {
+        if ((typeof(callbackObject.eventCallback) != "undefined") && (callbackObject.eventCallback != null)) {
+            callbackObject.eventCallback(response.substring(1), callbackObject.context);
+        }
+    }
+    else if (response.charAt(0) == "e") {
+        if ((typeof(callbackObject.errorCallback) != "undefined") && (callbackObject.errorCallback != null)) {
+            callbackObject.errorCallback(response.substring(1), callbackObject.context);
+        }
+    }
+    else {
+        var separatorIndex = response.indexOf("|");
+        if (separatorIndex != -1) {
+            var validationFieldLength = parseInt(response.substring(0, separatorIndex));
+            if (!isNaN(validationFieldLength)) {
+                var validationField = response.substring(separatorIndex + 1, separatorIndex + validationFieldLength + 1);
+                if (validationField != "") {
+                    var validationFieldElement = theForm["__EVENTVALIDATION"];
+                    if (!validationFieldElement) {
+                        validationFieldElement = document.createElement("INPUT");
+                        validationFieldElement.type = "hidden";
+                        validationFieldElement.name = "__EVENTVALIDATION";
+                        theForm.appendChild(validationFieldElement);
+                    }
+                    validationFieldElement.value = validationField;
+                }
+                if ((typeof(callbackObject.eventCallback) != "undefined") && (callbackObject.eventCallback != null)) {
+                    callbackObject.eventCallback(response.substring(separatorIndex + validationFieldLength + 1), callbackObject.context);
+                }
+            }
+        }
+    }
+}
+function WebForm_FillFirstAvailableSlot(array, element) {
+    var i;
+    for (i = 0; i < array.length; i++) {
+        if (!array[i]) break;
+    }
+    array[i] = element;
+    return i;
+}
+var __nonMSDOMBrowser = (window.navigator.appName.toLowerCase().indexOf('explorer') == -1);
+var __theFormPostData = "";
+var __theFormPostCollection = new Array();
+var __callbackTextTypes = /^(text|password|hidden|search|tel|url|email|number|range|color|datetime|date|month|week|time|datetime-local)$/i;
+function WebForm_InitCallback() {
+    var formElements = theForm.elements,
+        count = formElements.length,
+        element;
+    for (var i = 0; i < count; i++) {
+        element = formElements[i];
+        var tagName = element.tagName.toLowerCase();
+        if (tagName == "input") {
+            var type = element.type;
+            if ((__callbackTextTypes.test(type) || ((type == "checkbox" || type == "radio") && element.checked))
+                && (element.id != "__EVENTVALIDATION")) {
+                WebForm_InitCallbackAddField(element.name, element.value);
+            }
+        }
+        else if (tagName == "select") {
+            var selectCount = element.options.length;
+            for (var j = 0; j < selectCount; j++) {
+                var selectChild = element.options[j];
+                if (selectChild.selected == true) {
+                    WebForm_InitCallbackAddField(element.name, element.value);
+                }
+            }
+        }
+        else if (tagName == "textarea") {
+            WebForm_InitCallbackAddField(element.name, element.value);
+        }
+    }
+}
+function WebForm_InitCallbackAddField(name, value) {
+    var nameValue = new Object();
+    nameValue.name = name;
+    nameValue.value = value;
+    __theFormPostCollection[__theFormPostCollection.length] = nameValue;
+    __theFormPostData += WebForm_EncodeCallback(name) + "=" + WebForm_EncodeCallback(value) + "&";
+}
+function WebForm_EncodeCallback(parameter) {
+    if (encodeURIComponent) {
+        return encodeURIComponent(parameter);
+    }
+    else {
+        return escape(parameter);
+    }
+}
+var __disabledControlArray = new Array();
+function WebForm_ReEnableControls() {
+    if (typeof(__enabledControlArray) == 'undefined') {
+        return false;
+    }
+    var disabledIndex = 0;
+    for (var i = 0; i < __enabledControlArray.length; i++) {
+        var c;
+        if (__nonMSDOMBrowser) {
+            c = document.getElementById(__enabledControlArray[i]);
+        }
+        else {
+            c = document.all[__enabledControlArray[i]];
+        }
+        if ((typeof(c) != "undefined") && (c != null) && (c.disabled == true)) {
+            c.disabled = false;
+            __disabledControlArray[disabledIndex++] = c;
+        }
+    }
+    setTimeout("WebForm_ReDisableControls()", 0);
+    return true;
+}
+function WebForm_ReDisableControls() {
+    for (var i = 0; i < __disabledControlArray.length; i++) {
+        __disabledControlArray[i].disabled = true;
+    }
+}
+function WebForm_SimulateClick(element, event) {
+    var clickEvent;
+    if (element) {
+        if (element.click) {
+            element.click();
+        } else { 
+            clickEvent = document.createEvent("MouseEvents");
+            clickEvent.initMouseEvent("click", true, true, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);
+            if (!element.dispatchEvent(clickEvent)) {
+                return true;
+            }
+        }
+        event.cancelBubble = true;
+        if (event.stopPropagation) {
+            event.stopPropagation();
+        }
+        return false;
+    }
+    return true;
+}
+function WebForm_FireDefaultButton(event, target) {
+    if (event.keyCode == 13) {
+        var src = event.srcElement || event.target;
+        if (src &&
+            ((src.tagName.toLowerCase() == "input") &&
+             (src.type.toLowerCase() == "submit" || src.type.toLowerCase() == "button")) ||
+            ((src.tagName.toLowerCase() == "a") &&
+             (src.href != null) && (src.href != "")) ||
+            (src.tagName.toLowerCase() == "textarea")) {
+            return true;
+        }
+        var defaultButton;
+        if (__nonMSDOMBrowser) {
+            defaultButton = document.getElementById(target);
+        }
+        else {
+            defaultButton = document.all[target];
+        }
+        if (defaultButton) {
+            return WebForm_SimulateClick(defaultButton, event);
+        } 
+    }
+    return true;
+}
+function WebForm_GetScrollX() {
+    if (__nonMSDOMBrowser) {
+        return window.pageXOffset;
+    }
+    else {
+        if (document.documentElement && document.documentElement.scrollLeft) {
+            return document.documentElement.scrollLeft;
+        }
+        else if (document.body) {
+            return document.body.scrollLeft;
+        }
+    }
+    return 0;
+}
+function WebForm_GetScrollY() {
+    if (__nonMSDOMBrowser) {
+        return window.pageYOffset;
+    }
+    else {
+        if (document.documentElement && document.documentElement.scrollTop) {
+            return document.documentElement.scrollTop;
+        }
+        else if (document.body) {
+            return document.body.scrollTop;
+        }
+    }
+    return 0;
+}
+function WebForm_SaveScrollPositionSubmit() {
+    if (__nonMSDOMBrowser) {
+        theForm.elements['__SCROLLPOSITIONY'].value = window.pageYOffset;
+        theForm.elements['__SCROLLPOSITIONX'].value = window.pageXOffset;
+    }
+    else {
+        theForm.__SCROLLPOSITIONX.value = WebForm_GetScrollX();
+        theForm.__SCROLLPOSITIONY.value = WebForm_GetScrollY();
+    }
+    if ((typeof(this.oldSubmit) != "undefined") && (this.oldSubmit != null)) {
+        return this.oldSubmit();
+    }
+    return true;
+}
+function WebForm_SaveScrollPositionOnSubmit() {
+    theForm.__SCROLLPOSITIONX.value = WebForm_GetScrollX();
+    theForm.__SCROLLPOSITIONY.value = WebForm_GetScrollY();
+    if ((typeof(this.oldOnSubmit) != "undefined") && (this.oldOnSubmit != null)) {
+        return this.oldOnSubmit();
+    }
+    return true;
+}
+function WebForm_RestoreScrollPosition() {
+    if (__nonMSDOMBrowser) {
+        window.scrollTo(theForm.elements['__SCROLLPOSITIONX'].value, theForm.elements['__SCROLLPOSITIONY'].value);
+    }
+    else {
+        window.scrollTo(theForm.__SCROLLPOSITIONX.value, theForm.__SCROLLPOSITIONY.value);
+    }
+    if ((typeof(theForm.oldOnLoad) != "undefined") && (theForm.oldOnLoad != null)) {
+        return theForm.oldOnLoad();
+    }
+    return true;
+}
+function WebForm_TextBoxKeyHandler(event) {
+    if (event.keyCode == 13) {
+        var target;
+        if (__nonMSDOMBrowser) {
+            target = event.target;
+        }
+        else {
+            target = event.srcElement;
+        }
+        if ((typeof(target) != "undefined") && (target != null)) {
+            if (typeof(target.onchange) != "undefined") {
+                target.onchange();
+                event.cancelBubble = true;
+                if (event.stopPropagation) event.stopPropagation();
+                return false;
+            }
+        }
+    }
+    return true;
+}
+function WebForm_TrimString(value) {
+    return value.replace(/^\s+|\s+$/g, '')
+}
+function WebForm_AppendToClassName(element, className) {
+    var currentClassName = ' ' + WebForm_TrimString(element.className) + ' ';
+    className = WebForm_TrimString(className);
+    var index = currentClassName.indexOf(' ' + className + ' ');
+    if (index === -1) {
+        element.className = (element.className === '') ? className : element.className + ' ' + className;
+    }
+}
+function WebForm_RemoveClassName(element, className) {
+    var currentClassName = ' ' + WebForm_TrimString(element.className) + ' ';
+    className = WebForm_TrimString(className);
+    var index = currentClassName.indexOf(' ' + className + ' ');
+    if (index >= 0) {
+        element.className = WebForm_TrimString(currentClassName.substring(0, index) + ' ' +
+            currentClassName.substring(index + className.length + 1, currentClassName.length));
+    }
+}
+function WebForm_GetElementById(elementId) {
+    if (document.getElementById) {
+        return document.getElementById(elementId);
+    }
+    else if (document.all) {
+        return document.all[elementId];
+    }
+    else return null;
+}
+function WebForm_GetElementByTagName(element, tagName) {
+    var elements = WebForm_GetElementsByTagName(element, tagName);
+    if (elements && elements.length > 0) {
+        return elements[0];
+    }
+    else return null;
+}
+function WebForm_GetElementsByTagName(element, tagName) {
+    if (element && tagName) {
+        if (element.getElementsByTagName) {
+            return element.getElementsByTagName(tagName);
+        }
+        if (element.all && element.all.tags) {
+            return element.all.tags(tagName);
+        }
+    }
+    return null;
+}
+function WebForm_GetElementDir(element) {
+    if (element) {
+        if (element.dir) {
+            return element.dir;
+        }
+        return WebForm_GetElementDir(element.parentNode);
+    }
+    return "ltr";
+}
+function WebForm_GetElementPosition(element) {
+    var result = new Object();
+    result.x = 0;
+    result.y = 0;
+    result.width = 0;
+    result.height = 0;
+    if (element.offsetParent) {
+        result.x = element.offsetLeft;
+        result.y = element.offsetTop;
+        var parent = element.offsetParent;
+        while (parent) {
+            result.x += parent.offsetLeft;
+            result.y += parent.offsetTop;
+            var parentTagName = parent.tagName.toLowerCase();
+            if (parentTagName != "table" &&
+                parentTagName != "body" && 
+                parentTagName != "html" && 
+                parentTagName != "div" && 
+                parent.clientTop && 
+                parent.clientLeft) {
+                result.x += parent.clientLeft;
+                result.y += parent.clientTop;
+            }
+            parent = parent.offsetParent;
+        }
+    }
+    else if (element.left && element.top) {
+        result.x = element.left;
+        result.y = element.top;
+    }
+    else {
+        if (element.x) {
+            result.x = element.x;
+        }
+        if (element.y) {
+            result.y = element.y;
+        }
+    }
+    if (element.offsetWidth && element.offsetHeight) {
+        result.width = element.offsetWidth;
+        result.height = element.offsetHeight;
+    }
+    else if (element.style && element.style.pixelWidth && element.style.pixelHeight) {
+        result.width = element.style.pixelWidth;
+        result.height = element.style.pixelHeight;
+    }
+    return result;
+}
+function WebForm_GetParentByTagName(element, tagName) {
+    var parent = element.parentNode;
+    var upperTagName = tagName.toUpperCase();
+    while (parent && (parent.tagName.toUpperCase() != upperTagName)) {
+        parent = parent.parentNode ? parent.parentNode : parent.parentElement;
+    }
+    return parent;
+}
+function WebForm_SetElementHeight(element, height) {
+    if (element && element.style) {
+        element.style.height = height + "px";
+    }
+}
+function WebForm_SetElementWidth(element, width) {
+    if (element && element.style) {
+        element.style.width = width + "px";
+    }
+}
+function WebForm_SetElementX(element, x) {
+    if (element && element.style) {
+        element.style.left = x + "px";
+    }
+}
+function WebForm_SetElementY(element, y) {
+    if (element && element.style) {
+        element.style.top = y + "px";
+    }
+}
+$$$$$$ Response Body For Transaction With Id 525 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 521 ******
+	web_submit_form("LoadRunner_Correlation_Challenge_Exp.aspx_3",
+		"Snapshot=t16.inf",
+		ITEMDATA,
+		"Name=ctl00$head$QNo1.8", "Value=Alwar", ENDITEM,
+		"Name=ctl00$head$btnNext", "Value=Next", ENDITEM,
+		EXTRARES,
+		"Url=/WebResource.axd?d=Dni4Dwp2sE7BkxnwJrEAA5649Tlmnpvwn2La2DRwkPVt5D7zaVMO-EzSoZ_dVp6PBIJvfHbzOMQZeZkiuwwsKjfi5gBPV8iFZodpTRMsMug1&t=636765212300000000", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 521 Ended $$$$$$
+
+****** Request Header For Transaction With Id 527 ******
+GET /WebResource.axd?d=_ik9MG88W60F3HCI3_iYhWbegkhYG7ydNd13f4OiDs4o4SXDkA3axp76aGF6nX2u8QN6h5kURIRHRFRTQRGwTHWg_sLQ5n4rRo3B6oaZXaI1&t=636765212300000000 HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+Cookie: ASP.NET_SessionId=upjvef4mlmls4z4wyci1h4ov
+DNT: 1
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 527 Ended $$$$$$
+
+****** Response Header For Transaction With Id 527 ******
+HTTP/1.1 200 OK
+Cache-Control: public
+Content-Type: application/x-javascript
+Content-Encoding: gzip
+Expires: Fri, 13 Mar 2020 20:15:49 GMT
+Last-Modified: Wed, 31 Oct 2018 01:33:50 GMT
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:15:49 GMT
+Content-Length: 7228
+
+
+$$$$$$ Response Header For Transaction With Id 527 Ended $$$$$$
+
+****** Response Body For Transaction With Id 527 ******
+var Page_ValidationVer = "125";
+var Page_IsValid = true;
+var Page_BlockSubmit = false;
+var Page_InvalidControlToBeFocused = null;
+var Page_TextTypes = /^(text|password|file|search|tel|url|email|number|range|color|datetime|date|month|week|time|datetime-local)$/i;
+function ValidatorUpdateDisplay(val) {
+    if (typeof(val.display) == "string") {
+        if (val.display == "None") {
+            return;
+        }
+        if (val.display == "Dynamic") {
+            val.style.display = val.isvalid ? "none" : "inline";
+            return;
+        }
+    }
+    if ((navigator.userAgent.indexOf("Mac") > -1) &&
+        (navigator.userAgent.indexOf("MSIE") > -1)) {
+        val.style.display = "inline";
+    }
+    val.style.visibility = val.isvalid ? "hidden" : "visible";
+}
+function ValidatorUpdateIsValid() {
+    Page_IsValid = AllValidatorsValid(Page_Validators);
+}
+function AllValidatorsValid(validators) {
+    if ((typeof(validators) != "undefined") && (validators != null)) {
+        var i;
+        for (i = 0; i < validators.length; i++) {
+            if (!validators[i].isvalid) {
+                return false;
+            }
+        }
+    }
+    return true;
+}
+function ValidatorHookupControlID(controlID, val) {
+    if (typeof(controlID) != "string") {
+        return;
+    }
+    var ctrl = document.getElementById(controlID);
+    if ((typeof(ctrl) != "undefined") && (ctrl != null)) {
+        ValidatorHookupControl(ctrl, val);
+    }
+    else {
+        val.isvalid = true;
+        val.enabled = false;
+    }
+}
+function ValidatorHookupControl(control, val) {
+    if (typeof(control.tagName) != "string") {
+        return;  
+    }
+    if (control.tagName != "INPUT" && control.tagName != "TEXTAREA" && control.tagName != "SELECT") {
+        var i;
+        for (i = 0; i < control.childNodes.length; i++) {
+            ValidatorHookupControl(control.childNodes[i], val);
+        }
+        return;
+    }
+    else {
+        if (typeof(control.Validators) == "undefined") {
+            control.Validators = new Array;
+            var eventType;
+            if (control.type == "radio") {
+                eventType = "onclick";
+            } else {
+                eventType = "onchange";
+                if (typeof(val.focusOnError) == "string" && val.focusOnError == "t") {
+                    ValidatorHookupEvent(control, "onblur", "ValidatedControlOnBlur(event); ");
+                }
+            }
+            ValidatorHookupEvent(control, eventType, "ValidatorOnChange(event); ");
+            if (Page_TextTypes.test(control.type)) {
+                ValidatorHookupEvent(control, "onkeypress", 
+                    "event = event || window.event; if (!ValidatedTextBoxOnKeyPress(event)) { event.cancelBubble = true; if (event.stopPropagation) event.stopPropagation(); return false; } ");
+            }
+        }
+        control.Validators[control.Validators.length] = val;
+    }
+}
+function ValidatorHookupEvent(control, eventType, functionPrefix) {
+    var ev = control[eventType];
+    if (typeof(ev) == "function") {
+        ev = ev.toString();
+        ev = ev.substring(ev.indexOf("{") + 1, ev.lastIndexOf("}"));
+    }
+    else {
+        ev = "";
+    }
+    control[eventType] = new Function("event", functionPrefix + " " + ev);
+}
+function ValidatorGetValue(id) {
+    var control;
+    control = document.getElementById(id);
+    if (typeof(control.value) == "string") {
+        return control.value;
+    }
+    return ValidatorGetValueRecursive(control);
+}
+function ValidatorGetValueRecursive(control)
+{
+    if (typeof(control.value) == "string" && (control.type != "radio" || control.checked == true)) {
+        return control.value;
+    }
+    var i, val;
+    for (i = 0; i<control.childNodes.length; i++) {
+        val = ValidatorGetValueRecursive(control.childNodes[i]);
+        if (val != "") return val;
+    }
+    return "";
+}
+function Page_ClientValidate(validationGroup) {
+    Page_InvalidControlToBeFocused = null;
+    if (typeof(Page_Validators) == "undefined") {
+        return true;
+    }
+    var i;
+    for (i = 0; i < Page_Validators.length; i++) {
+        ValidatorValidate(Page_Validators[i], validationGroup, null);
+    }
+    ValidatorUpdateIsValid();
+    ValidationSummaryOnSubmit(validationGroup);
+    Page_BlockSubmit = !Page_IsValid;
+    return Page_IsValid;
+}
+function ValidatorCommonOnSubmit() {
+    Page_InvalidControlToBeFocused = null;
+    var result = !Page_BlockSubmit;
+    if ((typeof(window.event) != "undefined") && (window.event != null)) {
+        window.event.returnValue = result;
+    }
+    Page_BlockSubmit = false;
+    return result;
+}
+function ValidatorEnable(val, enable) {
+    val.enabled = (enable != false);
+    ValidatorValidate(val);
+    ValidatorUpdateIsValid();
+}
+function ValidatorOnChange(event) {
+    event = event || window.event;
+    Page_InvalidControlToBeFocused = null;
+    var targetedControl;
+    if ((typeof(event.srcElement) != "undefined") && (event.srcElement != null)) {
+        targetedControl = event.srcElement;
+    }
+    else {
+        targetedControl = event.target;
+    }
+    var vals;
+    if (typeof(targetedControl.Validators) != "undefined") {
+        vals = targetedControl.Validators;
+    }
+    else {
+        if (targetedControl.tagName.toLowerCase() == "label") {
+            targetedControl = document.getElementById(targetedControl.htmlFor);
+            vals = targetedControl.Validators;
+        }
+    }
+    if (vals) {
+        for (var i = 0; i < vals.length; i++) {
+            ValidatorValidate(vals[i], null, event);
+        }
+    }
+    ValidatorUpdateIsValid();
+}
+function ValidatedTextBoxOnKeyPress(event) {
+    event = event || window.event;
+    if (event.keyCode == 13) {
+        ValidatorOnChange(event);
+        var vals;
+        if ((typeof(event.srcElement) != "undefined") && (event.srcElement != null)) {
+            vals = event.srcElement.Validators;
+        }
+        else {
+            vals = event.target.Validators;
+        }
+        return AllValidatorsValid(vals);
+    }
+    return true;
+}
+function ValidatedControlOnBlur(event) {
+    event = event || window.event;
+    var control;
+    if ((typeof(event.srcElement) != "undefined") && (event.srcElement != null)) {
+        control = event.srcElement;
+    }
+    else {
+        control = event.target;
+    }
+    if ((typeof(control) != "undefined") && (control != null) && (Page_InvalidControlToBeFocused == control)) {
+        control.focus();
+        Page_InvalidControlToBeFocused = null;
+    }
+}
+function ValidatorValidate(val, validationGroup, event) {
+    val.isvalid = true;
+    if ((typeof(val.enabled) == "undefined" || val.enabled != false) && IsValidationGroupMatch(val, validationGroup)) {
+        if (typeof(val.evaluationfunction) == "function") {
+            val.isvalid = val.evaluationfunction(val);
+            if (!val.isvalid && Page_InvalidControlToBeFocused == null &&
+                typeof(val.focusOnError) == "string" && val.focusOnError == "t") {
+                ValidatorSetFocus(val, event);
+            }
+        }
+    }
+    ValidatorUpdateDisplay(val);
+}
+function ValidatorSetFocus(val, event) {
+    var ctrl;
+    if (typeof(val.controlhookup) == "string") {
+        var eventCtrl;
+        if ((typeof(event) != "undefined") && (event != null)) {
+            if ((typeof(event.srcElement) != "undefined") && (event.srcElement != null)) {
+                eventCtrl = event.srcElement;
+            }
+            else {
+                eventCtrl = event.target;
+            }
+        }
+        if ((typeof(eventCtrl) != "undefined") && (eventCtrl != null) &&
+            (typeof(eventCtrl.id) == "string") &&
+            (eventCtrl.id == val.controlhookup)) {
+            ctrl = eventCtrl;
+        }
+    }
+    if ((typeof(ctrl) == "undefined") || (ctrl == null)) {
+        ctrl = document.getElementById(val.controltovalidate);
+    }
+    if ((typeof(ctrl) != "undefined") && (ctrl != null) &&
+        (ctrl.tagName.toLowerCase() != "table" || (typeof(event) == "undefined") || (event == null)) && 
+        ((ctrl.tagName.toLowerCase() != "input") || (ctrl.type.toLowerCase() != "hidden")) &&
+        (typeof(ctrl.disabled) == "undefined" || ctrl.disabled == null || ctrl.disabled == false) &&
+        (typeof(ctrl.visible) == "undefined" || ctrl.visible == null || ctrl.visible != false) &&
+        (IsInVisibleContainer(ctrl))) {
+        if ((ctrl.tagName.toLowerCase() == "table" && (typeof(__nonMSDOMBrowser) == "undefined" || __nonMSDOMBrowser)) ||
+            (ctrl.tagName.toLowerCase() == "span")) {
+            var inputElements = ctrl.getElementsByTagName("input");
+            var lastInputElement  = inputElements[inputElements.length -1];
+            if (lastInputElement != null) {
+                ctrl = lastInputElement;
+            }
+        }
+        if (typeof(ctrl.focus) != "undefined" && ctrl.focus != null) {
+            ctrl.focus();
+            Page_InvalidControlToBeFocused = ctrl;
+        }
+    }
+}
+function IsInVisibleContainer(ctrl) {
+    if (typeof(ctrl.style) != "undefined" &&
+        ( ( typeof(ctrl.style.display) != "undefined" &&
+            ctrl.style.display == "none") ||
+          ( typeof(ctrl.style.visibility) != "undefined" &&
+            ctrl.style.visibility == "hidden") ) ) {
+        return false;
+    }
+    else if (typeof(ctrl.parentNode) != "undefined" &&
+             ctrl.parentNode != null &&
+             ctrl.parentNode != ctrl) {
+        return IsInVisibleContainer(ctrl.parentNode);
+    }
+    return true;
+}
+function IsValidationGroupMatch(control, validationGroup) {
+    if ((typeof(validationGroup) == "undefined") || (validationGroup == null)) {
+        return true;
+    }
+    var controlGroup = "";
+    if (typeof(control.validationGroup) == "string") {
+        controlGroup = control.validationGroup;
+    }
+    return (controlGroup == validationGroup);
+}
+function ValidatorOnLoad() {
+    if (typeof(Page_Validators) == "undefined")
+        return;
+    var i, val;
+    for (i = 0; i < Page_Validators.length; i++) {
+        val = Page_Validators[i];
+        if (typeof(val.evaluationfunction) == "string") {
+            eval("val.evaluationfunction = " + val.evaluationfunction + ";");
+        }
+        if (typeof(val.isvalid) == "string") {
+            if (val.isvalid == "False") {
+                val.isvalid = false;
+                Page_IsValid = false;
+            }
+            else {
+                val.isvalid = true;
+            }
+        } else {
+            val.isvalid = true;
+        }
+        if (typeof(val.enabled) == "string") {
+            val.enabled = (val.enabled != "False");
+        }
+        if (typeof(val.controltovalidate) == "string") {
+            ValidatorHookupControlID(val.controltovalidate, val);
+        }
+        if (typeof(val.controlhookup) == "string") {
+            ValidatorHookupControlID(val.controlhookup, val);
+        }
+    }
+    Page_ValidationActive = true;
+}
+function ValidatorConvert(op, dataType, val) {
+    function GetFullYear(year) {
+        var twoDigitCutoffYear = val.cutoffyear % 100;
+        var cutoffYearCentury = val.cutoffyear - twoDigitCutoffYear;
+        return ((year > twoDigitCutoffYear) ? (cutoffYearCentury - 100 + year) : (cutoffYearCentury + year));
+    }
+    var num, cleanInput, m, exp;
+    if (dataType == "Integer") {
+        exp = /^\s*[-\+]?\d+\s*$/;
+        if (op.match(exp) == null)
+            return null;
+        num = parseInt(op, 10);
+        return (isNaN(num) ? null : num);
+    }
+    else if(dataType == "Double") {
+        exp = new RegExp("^\\s*([-\\+])?(\\d*)\\" + val.decimalchar + "?(\\d*)\\s*$");
+        m = op.match(exp);
+        if (m == null)
+            return null;
+        if (m[2].length == 0 && m[3].length == 0)
+            return null;
+        cleanInput = (m[1] != null ? m[1] : "") + (m[2].length>0 ? m[2] : "0") + (m[3].length>0 ? "." + m[3] : "");
+        num = parseFloat(cleanInput);
+        return (isNaN(num) ? null : num);
+    }
+    else if (dataType == "Currency") {
+        var hasDigits = (val.digits > 0);
+        var beginGroupSize, subsequentGroupSize;
+        var groupSizeNum = parseInt(val.groupsize, 10);
+        if (!isNaN(groupSizeNum) && groupSizeNum > 0) {
+            beginGroupSize = "{1," + groupSizeNum + "}";
+            subsequentGroupSize = "{" + groupSizeNum + "}";
+        }
+        else {
+            beginGroupSize = subsequentGroupSize = "+";
+        }
+        exp = new RegExp("^\\s*([-\\+])?((\\d" + beginGroupSize + "(\\" + val.groupchar + "\\d" + subsequentGroupSize + ")+)|\\d*)"
+                        + (hasDigits ? "\\" + val.decimalchar + "?(\\d{0," + val.digits + "})" : "")
+                        + "\\s*$");
+        m = op.match(exp);
+        if (m == null)
+            return null;
+        if (m[2].length == 0 && hasDigits && m[5].length == 0)
+            return null;
+        cleanInput = (m[1] != null ? m[1] : "") + m[2].replace(new RegExp("(\\" + val.groupchar + ")", "g"), "") + ((hasDigits && m[5].length > 0) ? "." + m[5] : "");
+        num = parseFloat(cleanInput);
+        return (isNaN(num) ? null : num);
+    }
+    else if (dataType == "Date") {
+        var yearFirstExp = new RegExp("^\\s*((\\d{4})|(\\d{2}))([-/]|\\. ?)(\\d{1,2})\\4(\\d{1,2})\\.?\\s*$");
+        m = op.match(yearFirstExp);
+        var day, month, year;
+        if (m != null && (((typeof(m[2]) != "undefined") && (m[2].length == 4)) || val.dateorder == "ymd")) {
+            day = m[6];
+            month = m[5];
+            year = (m[2].length == 4) ? m[2] : GetFullYear(parseInt(m[3], 10));
+        }
+        else {
+            if (val.dateorder == "ymd"){
+                return null;
+            }
+            var yearLastExp = new RegExp("^\\s*(\\d{1,2})([-/]|\\. ?)(\\d{1,2})(?:\\s|\\2)((\\d{4})|(\\d{2}))(?:\\s\u0433\\.|\\.)?\\s*$");
+            m = op.match(yearLastExp);
+            if (m == null) {
+                return null;
+            }
+            if (val.dateorder == "mdy") {
+                day = m[3];
+                month = m[1];
+            }
+            else {
+                day = m[1];
+                month = m[3];
+            }
+            year = ((typeof(m[5]) != "undefined") && (m[5].length == 4)) ? m[5] : GetFullYear(parseInt(m[6], 10));
+        }
+        month -= 1;
+        var date = new Date(year, month, day);
+        if (year < 100) {
+            date.setFullYear(year);
+        }
+        return (typeof(date) == "object" && year == date.getFullYear() && month == date.getMonth() && day == date.getDate()) ? date.valueOf() : null;
+    }
+    else {
+        return op.toString();
+    }
+}
+function ValidatorCompare(operand1, operand2, operator, val) {
+    var dataType = val.type;
+    var op1, op2;
+    if ((op1 = ValidatorConvert(operand1, dataType, val)) == null)
+        return false;
+    if (operator == "DataTypeCheck")
+        return true;
+    if ((op2 = ValidatorConvert(operand2, dataType, val)) == null)
+        return true;
+    switch (operator) {
+        case "NotEqual":
+            return (op1 != op2);
+        case "GreaterThan":
+            return (op1 > op2);
+        case "GreaterThanEqual":
+            return (op1 >= op2);
+        case "LessThan":
+            return (op1 < op2);
+        case "LessThanEqual":
+            return (op1 <= op2);
+        default:
+            return (op1 == op2);
+    }
+}
+function CompareValidatorEvaluateIsValid(val) {
+    var value = ValidatorGetValue(val.controltovalidate);
+    if (ValidatorTrim(value).length == 0)
+        return true;
+    var compareTo = "";
+    if ((typeof(val.controltocompare) != "string") ||
+        (typeof(document.getElementById(val.controltocompare)) == "undefined") ||
+        (null == document.getElementById(val.controltocompare))) {
+        if (typeof(val.valuetocompare) == "string") {
+            compareTo = val.valuetocompare;
+        }
+    }
+    else {
+        compareTo = ValidatorGetValue(val.controltocompare);
+    }
+    var operator = "Equal";
+    if (typeof(val.operator) == "string") {
+        operator = val.operator;
+    }
+    return ValidatorCompare(value, compareTo, operator, val);
+}
+function CustomValidatorEvaluateIsValid(val) {
+    var value = "";
+    if (typeof(val.controltovalidate) == "string") {
+        value = ValidatorGetValue(val.controltovalidate);
+        if ((ValidatorTrim(value).length == 0) &&
+            ((typeof(val.validateemptytext) != "string") || (val.validateemptytext != "true"))) {
+            return true;
+        }
+    }
+    var args = { Value:value, IsValid:true };
+    if (typeof(val.clientvalidationfunction) == "string") {
+        eval(val.clientvalidationfunction + "(val, args) ;");
+    }
+    return args.IsValid;
+}
+function RegularExpressionValidatorEvaluateIsValid(val) {
+    var value = ValidatorGetValue(val.controltovalidate);
+    if (ValidatorTrim(value).length == 0)
+        return true;
+    var rx = new RegExp(val.validationexpression);
+    var matches = rx.exec(value);
+    return (matches != null && value == matches[0]);
+}
+function ValidatorTrim(s) {
+    var m = s.match(/^\s*(\S+(\s+\S+)*)\s*$/);
+    return (m == null) ? "" : m[1];
+}
+function RequiredFieldValidatorEvaluateIsValid(val) {
+    return (ValidatorTrim(ValidatorGetValue(val.controltovalidate)) != ValidatorTrim(val.initialvalue))
+}
+function RangeValidatorEvaluateIsValid(val) {
+    var value = ValidatorGetValue(val.controltovalidate);
+    if (ValidatorTrim(value).length == 0)
+        return true;
+    return (ValidatorCompare(value, val.minimumvalue, "GreaterThanEqual", val) &&
+            ValidatorCompare(value, val.maximumvalue, "LessThanEqual", val));
+}
+function ValidationSummaryOnSubmit(validationGroup) {
+    if (typeof(Page_ValidationSummaries) == "undefined")
+        return;
+    var summary, sums, s;
+    var headerSep, first, pre, post, end;
+    for (sums = 0; sums < Page_ValidationSummaries.length; sums++) {
+        summary = Page_ValidationSummaries[sums];
+        if (!summary) continue;
+        summary.style.display = "none";
+        if (!Page_IsValid && IsValidationGroupMatch(summary, validationGroup)) {
+            var i;
+            if (summary.showsummary != "False") {
+                summary.style.display = "";
+                if (typeof(summary.displaymode) != "string") {
+                    summary.displaymode = "BulletList";
+                }
+                switch (summary.displaymode) {
+                    case "List":
+                        headerSep = "<br>";
+                        first = "";
+                        pre = "";
+                        post = "<br>";
+                        end = "";
+                        break;
+                    case "BulletList":
+                    default:
+                        headerSep = "";
+                        first = "<ul>";
+                        pre = "<li>";
+                        post = "</li>";
+                        end = "</ul>";
+                        break;
+                    case "SingleParagraph":
+                        headerSep = " ";
+                        first = "";
+                        pre = "";
+                        post = " ";
+                        end = "<br>";
+                        break;
+                }
+                s = "";
+                if (typeof(summary.headertext) == "string") {
+                    s += summary.headertext + headerSep;
+                }
+                s += first;
+                for (i=0; i<Page_Validators.length; i++) {
+                    if (!Page_Validators[i].isvalid && typeof(Page_Validators[i].errormessage) == "string") {
+                        s += pre + Page_Validators[i].errormessage + post;
+                    }
+                }
+                s += end;
+                summary.innerHTML = s;
+                window.scrollTo(0,0);
+            }
+            if (summary.showmessagebox == "True") {
+                s = "";
+                if (typeof(summary.headertext) == "string") {
+                    s += summary.headertext + "\r\n";
+                }
+                var lastValIndex = Page_Validators.length - 1;
+                for (i=0; i<=lastValIndex; i++) {
+                    if (!Page_Validators[i].isvalid && typeof(Page_Validators[i].errormessage) == "string") {
+                        switch (summary.displaymode) {
+                            case "List":
+                                s += Page_Validators[i].errormessage;
+                                if (i < lastValIndex) {
+                                    s += "\r\n";
+                                }
+                                break;
+                            case "BulletList":
+                            default:
+                                s += "- " + Page_Validators[i].errormessage;
+                                if (i < lastValIndex) {
+                                    s += "\r\n";
+                                }
+                                break;
+                            case "SingleParagraph":
+                                s += Page_Validators[i].errormessage + " ";
+                                break;
+                        }
+                    }
+                }
+                alert(s);
+            }
+        }
+    }
+}
+if (window.jQuery) {
+    (function ($) {
+        var dataValidationAttribute = "data-val",
+            dataValidationSummaryAttribute = "data-valsummary",
+            normalizedAttributes = { validationgroup: "validationGroup", focusonerror: "focusOnError" };
+        function getAttributesWithPrefix(element, prefix) {
+            var i,
+                attribute,
+                list = {},
+                attributes = element.attributes,
+                length = attributes.length,
+                prefixLength = prefix.length;
+            prefix = prefix.toLowerCase();
+            for (i = 0; i < length; i++) {
+                attribute = attributes[i];
+                if (attribute.specified && attribute.name.substr(0, prefixLength).toLowerCase() === prefix) {
+                    list[attribute.name.substr(prefixLength)] = attribute.value;
+                }
+            }
+            return list;
+        }
+        function normalizeKey(key) {
+            key = key.toLowerCase();
+            return normalizedAttributes[key] === undefined ? key : normalizedAttributes[key];
+        }
+        function addValidationExpando(element) {
+            var attributes = getAttributesWithPrefix(element, dataValidationAttribute + "-");
+            $.each(attributes, function (key, value) {
+                element[normalizeKey(key)] = value;
+            });
+        }
+        function dispose(element) {
+            var index = $.inArray(element, Page_Validators);
+            if (index >= 0) {
+                Page_Validators.splice(index, 1);
+            }
+        }
+        function addNormalizedAttribute(name, normalizedName) {
+            normalizedAttributes[name.toLowerCase()] = normalizedName;
+        }
+        function parseSpecificAttribute(selector, attribute, validatorsArray) {
+            return $(selector).find("[" + attribute + "='true']").each(function (index, element) {
+                addValidationExpando(element);
+                element.dispose = function () { dispose(element); element.dispose = null; };
+                if ($.inArray(element, validatorsArray) === -1) {
+                    validatorsArray.push(element);
+                }
+            }).length;
+        }
+        function parse(selector) {
+            var length = parseSpecificAttribute(selector, dataValidationAttribute, Page_Validators);
+            length += parseSpecificAttribute(selector, dataValidationSummaryAttribute, Page_ValidationSummaries);
+            return length;
+        }
+        function loadValidators() {
+            if (typeof (ValidatorOnLoad) === "function") {
+                ValidatorOnLoad();
+            }
+            if (typeof (ValidatorOnSubmit) === "undefined") {
+                window.ValidatorOnSubmit = function () {
+                    return Page_ValidationActive ? ValidatorCommonOnSubmit() : true;
+                };
+            }
+        }
+        function registerUpdatePanel() {
+            if (window.Sys && Sys.WebForms && Sys.WebForms.PageRequestManager) {
+                var prm = Sys.WebForms.PageRequestManager.getInstance(),
+                    postBackElement, endRequestHandler;
+                if (prm.get_isInAsyncPostBack()) {
+                    endRequestHandler = function (sender, args) {
+                        if (parse(document)) {
+                            loadValidators();
+                        }
+                        prm.remove_endRequest(endRequestHandler);
+                        endRequestHandler = null;
+                    };
+                    prm.add_endRequest(endRequestHandler);
+                }
+                prm.add_beginRequest(function (sender, args) {
+                    postBackElement = args.get_postBackElement();
+                });
+                prm.add_pageLoaded(function (sender, args) {
+                    var i, panels, valFound = 0;
+                    if (typeof (postBackElement) === "undefined") {
+                        return;
+                    }
+                    panels = args.get_panelsUpdated();
+                    for (i = 0; i < panels.length; i++) {
+                        valFound += parse(panels[i]);
+                    }
+                    panels = args.get_panelsCreated();
+                    for (i = 0; i < panels.length; i++) {
+                        valFound += parse(panels[i]);
+                    }
+                    if (valFound) {
+                        loadValidators();
+                    }
+                });
+            }
+        }
+        $(function () {
+            if (typeof (Page_Validators) === "undefined") {
+                window.Page_Validators = [];
+            }
+            if (typeof (Page_ValidationSummaries) === "undefined") {
+                window.Page_ValidationSummaries = [];
+            }
+            if (typeof (Page_ValidationActive) === "undefined") {
+                window.Page_ValidationActive = false;
+            }
+            $.WebFormValidator = {
+                addNormalizedAttribute: addNormalizedAttribute,
+                parse: parse
+            };
+            if (parse(document)) {
+                loadValidators();
+            }
+            registerUpdatePanel();
+        });
+    } (jQuery));
+}
+$$$$$$ Response Body For Transaction With Id 527 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 521 ******
+	web_submit_form("LoadRunner_Correlation_Challenge_Exp.aspx_3",
+		"Snapshot=t16.inf",
+		ITEMDATA,
+		"Name=ctl00$head$QNo1.8", "Value=Alwar", ENDITEM,
+		"Name=ctl00$head$btnNext", "Value=Next", ENDITEM,
+		EXTRARES,
+		"Url=/WebResource.axd?d=Dni4Dwp2sE7BkxnwJrEAA5649Tlmnpvwn2La2DRwkPVt5D7zaVMO-EzSoZ_dVp6PBIJvfHbzOMQZeZkiuwwsKjfi5gBPV8iFZodpTRMsMug1&t=636765212300000000", ENDITEM,
+		"Url=/WebResource.axd?d=_ik9MG88W60F3HCI3_iYhWbegkhYG7ydNd13f4OiDs4o4SXDkA3axp76aGF6nX2u8QN6h5kURIRHRFRTQRGwTHWg_sLQ5n4rRo3B6oaZXaI1&t=636765212300000000", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 521 Ended $$$$$$
+
+****** Request Header For Transaction With Id 534 ******
+POST /LoadRunner_Correlation_Challenge_Exp.aspx HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 361
+Cookie: ASP.NET_SessionId=upjvef4mlmls4z4wyci1h4ov
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+$$$$$$ Request Header For Transaction With Id 534 Ended $$$$$$
+
+****** Request Body For Transaction With Id 534 ******
+__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=%2FwEPDwUKLTMwNzk0OTUxN2RkiNLWKXvunUPD8hG0KuCM1zvFDlEueuKlFq9Ah2nRCFs%3D&__VIEWSTATEGENERATOR=C6B83A63&__EVENTVALIDATION=%2FwEdAAOWnP2BiipA7Vh6gBcOxe%2BZSO%2BWfz2F0XL9o5yAz8EC1b3Xi43vGp6xNVoz7qryOS%2FS7SlWgTcSbUWojoSNMoUrQT7bi9WP%2BudiADw7LOjM7g%3D%3D&ctl00%24head%24txtMagicNo=1882784377&ctl00%24head%24btnStep2=Next
+$$$$$$ Request Body For Transaction With Id 534 Ended $$$$$$
+
+****** Response Header For Transaction With Id 534 ******
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:15:59 GMT
+Content-Length: 3492
+
+
+$$$$$$ Response Header For Transaction With Id 534 Ended $$$$$$
+
+****** Response Body For Transaction With Id 534 ******
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	LoadRunner:Correlation Challenge
+</title>
+    <script type="text/javascript" src="JS/JScript_CC.js"></script>
+    <link href="JS/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+       
+        .style1
+        {
+            height: 39px;
+        }
+       
+    </style>
+   <script>
+       (function (i, s, o, g, r, a, m) {
+           i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+               (i[r].q = i[r].q || []).push(arguments)
+           }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+       })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+       ga('create', 'UA-54539864-2', 'auto');
+       ga('send', 'pageview');
+
+</script>
+    <meta name="keywords" content="LoadRunner Correlation practice, LR Correlation practice, LoadRunner Correlation Challenge, LR Correlation Challenge, Loadrunner, LR, Correlation, VeGen, LR scripting, LoadRunner Scripting Correlation practice, LR Scripting Correlation practice" /><meta name="description" content="Welcome to the Correlation Challenge. I have condensed some of the types of correlation problems I have encountered in real web applications (ranging from relatively easy, to fairly difficult) into this exercise. You should be able to manually navigate through the Challenge with no problems, but creating a LoadRunner/VuGen script that will do the same thing will take a non-trivial amount of effort. Please treat this as a training exercise. If you can get to the end of this exercise by yourself, then you can correlate with the best of them" /></head>
+<body style=" padding:0px; margin:0px;background-color:#EFEFEF; font:Arial;">
+
+    <form method="post" action="./LoadRunner_Correlation_Challenge_Exp.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMwNzk0OTUxN2RkiNLWKXvunUPD8hG0KuCM1zvFDlEueuKlFq9Ah2nRCFs=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C6B83A63" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAKWnP2BiipA7Vh6gBcOxe+ZxBiCILTMCOc2RoB+oo7A+A3EwoaeoYcuegNeXxFM8dBdLWcDvCwtjtymvE7HKAsO" />
+</div>
+    <div style=" border-width: 1px; border-color: #000000; position:fixed; width:100%; background-color: #0066CC; padding-top:0px; border-bottom-style: solid;">
+        <table  cellspacing="0" cellpadding="0"  style=" background:url('img/images.jpg'); background-repeat:repeat-x; width:100%; padding:0px">
+            <tr>
+                <td width="20%">
+           
+            <a id="HyperLink1" style="display:inline-block;border-style:None;font-family:Arial;font-weight:bold; text-decoration:none"><img src="IMG/LR.gif" alt="LR Tricks" /></a>
+           </td>
+                <td width="60%" valign="top" align="left">
+                    <br />
+                        <ul id="trans-nav" >
+                        <li><a href="Index.htm">Home</a></li>
+                         <li><a href="">Training</a>
+                                 <ul>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Load Runner</a></li>
+                                <li><a href="VuGen/Load_Runner_VuGen_Home.htm">VuGen</a></li>
+                                <li><a href="Controller/Controller.htm">Controller</a></li>
+                                <li><a href="AN/Load_Runner_Analysis.htm">Analysis</a></li>
+                                <li><a href="PT/Performance_Testing.htm">Performance Testing</a></li>
+                                <li><a href="PT/Performance_Tuning.htm">Performance Tuning</a></li>
+                                <li><a href="LR_Error/Load_Runner_Errors.htm">Load Runner Errors</a></li>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Interview Question</a></li>
+                                </ul>
+                          </li>
+                        <li><a href="Tool/Tool.htm">Tools    </a>
+                              <ul>
+                                <li><a href="LoadRunner_transaction_naming_tool.aspx">Transaction Naming</a></li>
+                                <li><a href="LoadRunner_Correlation_Finder.aspx">Correlation Finder</a></li>
+                                <li><a href="ENDE.aspx">URLEncode/URLDecode</a></li>
+                                <li><a href="Tool/Free_Website_Automation_from_Excel.htm">Web Automation by Excel</a></li>
+                                <li><a href="Tool/Free_Load_Testing_From_Excel.htm">Load Test by Excel</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Correlation Challenge</a>
+                            <ul>
+                                <li><a href="#">Challenge for Beginners</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Mod.aspx">Challenge for Modrate</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Exp.aspx">Challenge for Expert</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="About.aspx">About</a></li>
+                    </ul>                        
+                    </td>
+                <td align="left" width="20%">
+   
+            &nbsp;</td>
+            </tr>
+        </table>
+    </div>
+        <table cellpadding="0" cellspacing="0" style=" width:100%; padding-top:40px ">
+            <tr>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+                <td width="60%" 
+                    
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; padding: 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid;" 
+                    class="style1">
+                   
+                       
+                      
+                </td>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                   </td>
+                <td valign="top" width="60%" 
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+                    <div style="border-top-style: solid; border-bottom-style: solid; border-width: 1px; border-color: #000000">
+                     </div>
+                    
+    <div style=" margin:10px;font-family:Verdana">
+<div>
+    
+    
+    
+    <div id="head_divStep3" style="margin-left: 40px">
+        
+        <strong>Step 3</strong><br />
+        <br />
+        Click on Next:<br />
+        <br />
+        <input id="btnNext3" type="button" value="Next" onclick="return Button2_onclick()" />
+        <input type="hidden" name="ctl00$head$hd1" id="head_hd1" value="1649104177" />
+        
+    </div>
+    
+    </div>
+    </div>
+    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- H_Page -->
+                        <ins class="adsbygoogle"
+                             style="display:inline-block;width:728px;height:90px"
+                             data-ad-client="ca-pub-2242131967064788"
+                             data-ad-slot="2118144356"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                </td>
+                <td width="20%" align="center" valign="top" >
+                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+                <td width="60%" align="center" valign="top">
+                <br />
+                   
+                    <br />
+                    <div id="divTags" align="center" style="background-color: #000000; color:Gray; padding:10px">
+                    
+                     <strong>FIND MORE ON LOAD RUNNER TIPS</strong><br /> |
+                     <a href="Load_Runner/Load_Runner_Home.htm" class="tadA">About Load Runner</a> |
+                     <a href="VuGen/Load_Runner_VuGen_Home.htm" class="tadA">Creating scripts in Load Runner</a> |
+                     <a href="Controller/Controller.htm" class="tadA">Load Runner scenario</a> |
+                     <a href="AN/Load_Runner_Analysis.htm" class="tadA">LR Analysis</a> |
+                     <a href="PT/Performance_Tuning.htm" class="tadA">Performance Tuning </a> |
+                     <a href="PT/Performance_Testing.htm" class="tadA">Performance Testing</a> |
+                     <a href="LR_Error/Load_Runner_Errors.htm" class="tadA">LR Errors</a> |
+                     <a href="Interview_Question/Interview_question_home.htm" class="tadA">Interview Question</a> |
+                     <a href="Tool/Tool.htm" class="tadA">Load Runner Tool</a> |
+                     <a href="LoadRunner_Correlation_Challenge_Mod.aspx" class="tadA">Correlation Practice</a> |
+                     <a href="SiteMap.aspx" class="tadA">Site Map</a> |
+                    
+                 </div>
+                 </td>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+            </tr>
+        </table>
+
+    </form>
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 534 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 534 ****** (Location Flag : tFlagInsertEnd, Location ID : 534)
+	web_submit_data("LoadRunner_Correlation_Challenge_Exp.aspx_4",
+		"Action=http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx",
+		"Method=POST",
+		"RecContentType=text/html",
+		"Referer=http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx",
+		"Snapshot=t17.inf",
+		"Mode=HTML",
+		ITEMDATA,
+		"Name=__EVENTTARGET", "Value=", ENDITEM,
+		"Name=__EVENTARGUMENT", "Value=", ENDITEM,
+		"Name=__VIEWSTATE", "Value=/wEPDwUKLTMwNzk0OTUxN2RkiNLWKXvunUPD8hG0KuCM1zvFDlEueuKlFq9Ah2nRCFs=", ENDITEM,
+		"Name=__VIEWSTATEGENERATOR", "Value=C6B83A63", ENDITEM,
+		"Name=__EVENTVALIDATION", "Value=/wEdAAOWnP2BiipA7Vh6gBcOxe+ZSO+Wfz2F0XL9o5yAz8EC1b3Xi43vGp6xNVoz7qryOS/S7SlWgTcSbUWojoSNMoUrQT7bi9WP+udiADw7LOjM7g==", ENDITEM,
+		"Name=ctl00$head$txtMagicNo", "Value=1882784377", ENDITEM,
+		"Name=ctl00$head$btnStep2", "Value=Next", ENDITEM,
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 534 Ended $$$$$$
+
+****** Request Header For Transaction With Id 537 ******
+GET /LoadRunner_Correlation_Challenge_Exp.aspx?RQM=1649104177&RND=0.19235984635571723 HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+Status: 0
+Cookie: ASP.NET_SessionId=upjvef4mlmls4z4wyci1h4ov
+DNT: 1
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 537 Ended $$$$$$
+
+****** Response Header For Transaction With Id 537 ******
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Powered-By-Plesk: PleskWin
+Date: Thu, 14 Mar 2019 20:16:01 GMT
+Content-Length: 3288
+
+
+$$$$$$ Response Header For Transaction With Id 537 Ended $$$$$$
+
+****** Response Body For Transaction With Id 537 ******
+Correlation Challenge Completed (manually). Try now it in Vegen. ~
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	LoadRunner:Correlation Challenge
+</title>
+    <script type="text/javascript" src="JS/JScript_CC.js"></script>
+    <link href="JS/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+       
+        .style1
+        {
+            height: 39px;
+        }
+       
+    </style>
+   <script>
+       (function (i, s, o, g, r, a, m) {
+           i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+               (i[r].q = i[r].q || []).push(arguments)
+           }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+       })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+       ga('create', 'UA-54539864-2', 'auto');
+       ga('send', 'pageview');
+
+</script>
+    <meta name="keywords" content="LoadRunner Correlation practice, LR Correlation practice, LoadRunner Correlation Challenge, LR Correlation Challenge, Loadrunner, LR, Correlation, VeGen, LR scripting, LoadRunner Scripting Correlation practice, LR Scripting Correlation practice" /><meta name="description" content="Welcome to the Correlation Challenge. I have condensed some of the types of correlation problems I have encountered in real web applications (ranging from relatively easy, to fairly difficult) into this exercise. You should be able to manually navigate through the Challenge with no problems, but creating a LoadRunner/VuGen script that will do the same thing will take a non-trivial amount of effort. Please treat this as a training exercise. If you can get to the end of this exercise by yourself, then you can correlate with the best of them" /></head>
+<body style=" padding:0px; margin:0px;background-color:#EFEFEF; font:Arial;">
+
+    <form method="post" action="./LoadRunner_Correlation_Challenge_Exp.aspx?RQM=1649104177&amp;RND=0.19235984635571723" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMwNzk0OTUxN2RkiNLWKXvunUPD8hG0KuCM1zvFDlEueuKlFq9Ah2nRCFs=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C6B83A63" />
+</div>
+    <div style=" border-width: 1px; border-color: #000000; position:fixed; width:100%; background-color: #0066CC; padding-top:0px; border-bottom-style: solid;">
+        <table  cellspacing="0" cellpadding="0"  style=" background:url('img/images.jpg'); background-repeat:repeat-x; width:100%; padding:0px">
+            <tr>
+                <td width="20%">
+           
+            <a id="HyperLink1" style="display:inline-block;border-style:None;font-family:Arial;font-weight:bold; text-decoration:none"><img src="IMG/LR.gif" alt="LR Tricks" /></a>
+           </td>
+                <td width="60%" valign="top" align="left">
+                    <br />
+                        <ul id="trans-nav" >
+                        <li><a href="Index.htm">Home</a></li>
+                         <li><a href="">Training</a>
+                                 <ul>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Load Runner</a></li>
+                                <li><a href="VuGen/Load_Runner_VuGen_Home.htm">VuGen</a></li>
+                                <li><a href="Controller/Controller.htm">Controller</a></li>
+                                <li><a href="AN/Load_Runner_Analysis.htm">Analysis</a></li>
+                                <li><a href="PT/Performance_Testing.htm">Performance Testing</a></li>
+                                <li><a href="PT/Performance_Tuning.htm">Performance Tuning</a></li>
+                                <li><a href="LR_Error/Load_Runner_Errors.htm">Load Runner Errors</a></li>
+                                <li><a href="Load_Runner/Load_Runner_Home.htm">Interview Question</a></li>
+                                </ul>
+                          </li>
+                        <li><a href="Tool/Tool.htm">Tools    </a>
+                              <ul>
+                                <li><a href="LoadRunner_transaction_naming_tool.aspx">Transaction Naming</a></li>
+                                <li><a href="LoadRunner_Correlation_Finder.aspx">Correlation Finder</a></li>
+                                <li><a href="ENDE.aspx">URLEncode/URLDecode</a></li>
+                                <li><a href="Tool/Free_Website_Automation_from_Excel.htm">Web Automation by Excel</a></li>
+                                <li><a href="Tool/Free_Load_Testing_From_Excel.htm">Load Test by Excel</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#">Correlation Challenge</a>
+                            <ul>
+                                <li><a href="#">Challenge for Beginners</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Mod.aspx">Challenge for Modrate</a></li>
+                                <li><a href="LoadRunner_Correlation_Challenge_Exp.aspx">Challenge for Expert</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="About.aspx">About</a></li>
+                    </ul>                        
+                    </td>
+                <td align="left" width="20%">
+   
+            &nbsp;</td>
+            </tr>
+        </table>
+    </div>
+        <table cellpadding="0" cellspacing="0" style=" width:100%; padding-top:40px ">
+            <tr>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+                <td width="60%" 
+                    
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; padding: 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid;" 
+                    class="style1">
+                   
+                       
+                      
+                </td>
+                <td width="20%" style="padding: 10px" class="style1">
+                    </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                   </td>
+                <td valign="top" width="60%" 
+                    style="border-width: 1px; border-color: #000000; background-color: #FFFFFF; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;">
+                    <div style="border-top-style: solid; border-bottom-style: solid; border-width: 1px; border-color: #000000">
+                     </div>
+                    
+    <div style=" margin:10px;font-family:Verdana">
+<div>
+    
+    
+    
+    
+    
+    </div>
+    </div>
+    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- H_Page -->
+                        <ins class="adsbygoogle"
+                             style="display:inline-block;width:728px;height:90px"
+                             data-ad-client="ca-pub-2242131967064788"
+                             data-ad-slot="2118144356"></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                </td>
+                <td width="20%" align="center" valign="top" >
+                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- RL -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:160px;height:600px"
+                         data-ad-client="ca-pub-2242131967064788"
+                         data-ad-slot="8164677950"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </td>
+            </tr>
+            <tr>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+                <td width="60%" align="center" valign="top">
+                <br />
+                   
+                    <br />
+                    <div id="divTags" align="center" style="background-color: #000000; color:Gray; padding:10px">
+                    
+                     <strong>FIND MORE ON LOAD RUNNER TIPS</strong><br /> |
+                     <a href="Load_Runner/Load_Runner_Home.htm" class="tadA">About Load Runner</a> |
+                     <a href="VuGen/Load_Runner_VuGen_Home.htm" class="tadA">Creating scripts in Load Runner</a> |
+                     <a href="Controller/Controller.htm" class="tadA">Load Runner scenario</a> |
+                     <a href="AN/Load_Runner_Analysis.htm" class="tadA">LR Analysis</a> |
+                     <a href="PT/Performance_Tuning.htm" class="tadA">Performance Tuning </a> |
+                     <a href="PT/Performance_Testing.htm" class="tadA">Performance Testing</a> |
+                     <a href="LR_Error/Load_Runner_Errors.htm" class="tadA">LR Errors</a> |
+                     <a href="Interview_Question/Interview_question_home.htm" class="tadA">Interview Question</a> |
+                     <a href="Tool/Tool.htm" class="tadA">Load Runner Tool</a> |
+                     <a href="LoadRunner_Correlation_Challenge_Mod.aspx" class="tadA">Correlation Practice</a> |
+                     <a href="SiteMap.aspx" class="tadA">Site Map</a> |
+                    
+                 </div>
+                 </td>
+                <td width="20%" align="center" valign="top">
+                    &nbsp;</td>
+            </tr>
+        </table>
+
+    </form>
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 537 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/LoadRunner_Correlation_Challenge_Exp.aspx
+Form: name= action=./LoadRunner_Correlation_Challenge_Exp.aspx
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 537 ****** (Location Flag : tFlagInsertEnd, Location ID : 537)
+	web_url("LoadRunner_Correlation_Challenge_Exp.aspx_5",
+		"URL=http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx?RQM=1649104177&RND=0.19235984635571723",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx",
+		"Snapshot=t18.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 537 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 537)
+	web_revert_auto_header("Upgrade-Insecure-Requests");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 537)
+	web_add_header("Status",
+		"0");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+

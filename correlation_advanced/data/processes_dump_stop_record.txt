@@ -1,0 +1,210 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+Failed to get information of process Id: 284
+Failed to get information of process Id: 480
+Failed to get information of process Id: 592
+Failed to get information of process Id: 600
+Failed to get information of process Id: 676
+Failed to get information of process Id: 732
+Failed to get information of process Id: 740
+Failed to get information of process Id: 844
+Failed to get information of process Id: 904
+Failed to get information of process Id: 1004
+Failed to get information of process Id: 84
+Failed to get information of process Id: 440
+Failed to get information of process Id: 512
+Failed to get information of process Id: 1124
+Failed to get information of process Id: 1132
+Failed to get information of process Id: 1188
+Failed to get information of process Id: 1252
+Failed to get information of process Id: 1496
+Failed to get information of process Id: 1676
+Failed to get information of process Id: 1944
+Failed to get information of process Id: 2032
+Failed to get information of process Id: 1368
+Failed to get information of process Id: 1452
+Failed to get information of process Id: 1376
+Failed to get information of process Id: 1576
+Failed to get information of process Id: 1708
+Failed to get information of process Id: 1992
+Failed to get information of process Id: 2084
+Failed to get information of process Id: 2100
+Failed to get information of process Id: 2112
+Failed to get information of process Id: 2132
+Failed to get information of process Id: 2172
+Failed to get information of process Id: 2180
+Failed to get information of process Id: 2196
+Failed to get information of process Id: 2292
+Failed to get information of process Id: 2300
+Failed to get information of process Id: 2308
+Failed to get information of process Id: 2344
+Failed to get information of process Id: 2352
+Failed to get information of process Id: 2392
+Failed to get information of process Id: 2448
+Failed to get information of process Id: 3208
+Failed to get information of process Id: 3456
+Failed to get information of process Id: 3508
+Failed to get information of process Id: 3516
+Failed to get information of process Id: 3640
+Failed to get information of process Id: 3768
+Failed to get information of process Id: 3868
+Failed to get information of process Id: 4136
+Failed to get information of process Id: 4228
+Failed to get information of process Id: 4600
+Failed to get information of process Id: 4608
+Failed to get information of process Id: 4680
+Failed to get information of process Id: 4696
+Failed to get information of process Id: 4752
+Failed to get information of process Id: 3220
+Failed to get information of process Id: 4564
+Failed to get information of process Id: 6068
+PROCESS 0x17d4      magentproc.exe
+Failed to get information of process Id: 3600
+PROCESS 0x328       hp.alm.lab.agent.ssehosttray.exe
+Failed to get information of process Id: 4840
+PROCESS 0x1838      vcddaemon.exe
+PROCESS 0x18a0      sprinteragent.exe
+Failed to get information of process Id: 6368
+Failed to get information of process Id: 6412
+Failed to get information of process Id: 4980
+Failed to get information of process Id: 6492
+Failed to get information of process Id: 5380
+Failed to get information of process Id: 6896
+Failed to get information of process Id: 6880
+Failed to get information of process Id: 6548
+Failed to get information of process Id: 6512
+Failed to get information of process Id: 264
+Failed to get information of process Id: 5352
+Failed to get information of process Id: 424
+Failed to get information of process Id: 436
+Failed to get information of process Id: 5928
+PROCESS 0xa40       vugen.exe
+Failed to get information of process Id: 692
+Failed to get information of process Id: 1236
+Failed to get information of process Id: 7288
+Failed to get information of process Id: 7408
+Failed to get information of process Id: 5304
+Failed to get information of process Id: 7436
+Failed to get information of process Id: 7692
+Failed to get information of process Id: 5772
+Failed to get information of process Id: 7236
+Failed to get information of process Id: 8008
+Failed to get information of process Id: 4724
+PROCESS 0x1ea8      hp.uft.chrome.nativemessaginghost.exe
+Failed to get information of process Id: 5916
+PROCESS 0x1c9c      emacs.exe
+Failed to get information of process Id: 7072
+Failed to get information of process Id: 816
+Failed to get information of process Id: 5192
+Failed to get information of process Id: 5748
+Failed to get information of process Id: 1364
+Failed to get information of process Id: 9220
+Failed to get information of process Id: 3796
+Failed to get information of process Id: 9772
+Failed to get information of process Id: 412
+Failed to get information of process Id: 6248
+Failed to get information of process Id: 9996
+Failed to get information of process Id: 8732
+PROCESS 0x2554      rundll32.exe
+PROCESS 0x380       rundll32.exe
+PROCESS 0x12c4      rundll32.exe
+PROCESS 0x980       rundll32.exe
+Failed to get information of process Id: 832
+Failed to get information of process Id: 9520
+Failed to get information of process Id: 8448
+PROCESS 0x1dec      hp.uft.firefox.nativemessaginghost.exe
+		14.51.1566.0                  C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\HP.UFT.Firefox.NativeMessagingHost.exe
+		10.0.14393.206 (rs1_release.160915-0644)C:\Windows\SYSTEM32\ntdll.dll
+		10.0.14393.206 (rs1_release.160915-0644)C:\Windows\System32\KERNEL32.DLL
+		10.0.14393.206 (rs1_release.160915-0644)C:\Windows\System32\KERNELBASE.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\SHLWAPI.dll
+		7.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\msvcrt.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\combase.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\ucrtbase.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\RPCRT4.dll
+		10.0.14393.576 (rs1_release_inmarket.161208-2252)C:\Windows\System32\SspiCli.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\CRYPTBASE.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\bcryptPrimitives.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\sechost.dll
+		10.0.14393.206 (rs1_release.160915-0644)C:\Windows\System32\GDI32.dll
+		10.0.14393.576 (rs1_release_inmarket.161208-2252)C:\Windows\System32\gdi32full.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\USER32.dll
+		10.0.14393.51 (rs1_release_inmarket.160801-1836)C:\Windows\System32\win32u.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\ADVAPI32.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\ole32.dll
+		10.0.14393.447 (rs1_release_inmarket.161102-0100)C:\Windows\System32\OLEAUT32.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\msvcp_win.dll
+		14.51.1566.0                  C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\WIAgentLogFileU.dll
+		14.15.26706.0 built by: VCTOOLSRELC:\Windows\SYSTEM32\MSVCP140.dll
+		14.15.26706.0 built by: VCTOOLSRELC:\Windows\SYSTEM32\VCRUNTIME140.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\SHELL32.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\cfgmgr32.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\windows.storage.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\powrprof.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\kernel.appcore.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\shcore.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\profapi.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\IMM32.DLL
+		19.5.0.10279                  C:\Windows\SYSTEM32\qaphooks.dll
+		12.60.610.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\bin\bbhook.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\bin\api_trapper.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\mosifs32.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\PathResolver.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\runtime_code_injection_lib.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\SYSTEM32\VERSION.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\wrapicu.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\SYSTEM32\USERENV.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\thrdutil.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\SYSTEM32\IPHLPAPI.DLL
+		55, 1, 0, 0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\icuuc55.dll
+		55, 1, 0, 0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\icudt55.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\bin\api_sock_proxy.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\WS2_32.dll
+		                              C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\pcre-8.42.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\bin\VnpLog.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\ipng_utils.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\bin\MicSocket.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\bin\VnpUtils.dll
+		1.1.0g                        C:\Program Files (x86)\Micro Focus\LoadRunner\bin\libcrypto-lt-1_1.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\lrun50.dll
+		1.1.0g                        C:\Program Files (x86)\Micro Focus\LoadRunner\bin\libssl-lt-1_1.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\CRYPT32.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\MSASN1.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\SYSTEM32\WSOCK32.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\trans.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\msg_handler.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\merc_uuid.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\mlib_ds.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\comm_util.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\runlogic.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\parameng.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\libxdrutil.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\xdr.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\faserver.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\run_time_context.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\wrapzlib.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\config.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\lr_exp.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\trans_server.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\libdatatypes.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\data_types_ifs.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\rtc_protocol.dll
+		10.0.16299.91 (WinBuild.160101.0800)C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\dbghelp.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\timediff_ext.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\jrequestor_srv.dll
+		12.62.177.0                   C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\dc_requests.dll
+		10.0.16299.91 (WinBuild.160101.0800)C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\dbgcore.DLL
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\bin\api_http_filter.dll
+		                              C:\Program Files (x86)\Micro Focus\LoadRunner\bin\WebHTTP2Util.dll
+		1.31.90.0 (MSVC release)      C:\Program Files (x86)\Micro Focus\LoadRunner\bin\nghttp2.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\bin\api_trapper1.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\bin\WebMultiInProcNotify.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\system32\uxtheme.dll
+		12.60.971.0                   C:\Program Files (x86)\Micro Focus\LoadRunner\Bin\type_info_pool.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\System32\MSCTF.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\system32\dwmapi.dll
+		10.0.14393.0 (rs1_release.160715-1616)C:\Windows\SYSTEM32\sxs.dll
+		2001.12.10941.16384 (rs1_release.160715-1616)C:\Windows\System32\clbcatq.dll
+		14.51.1566.0                  C:\Program Files (x86)\Micro Focus\Unified Functional Testing\bin\WICommon.dll
+Failed to get information of process Id: 1272
+Failed to get information of process Id: 4772

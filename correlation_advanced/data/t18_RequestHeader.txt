@@ -1,0 +1,12 @@
+GET /LoadRunner_Correlation_Challenge_Exp.aspx?RQM=1649104177&RND=0.19235984635571723 HTTP/1.1
+Host: loadrunnertips.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://loadrunnertips.com/LoadRunner_Correlation_Challenge_Exp.aspx
+Status: 0
+Cookie: ASP.NET_SessionId=upjvef4mlmls4z4wyci1h4ov
+DNT: 1
+Connection: keep-alive
+
