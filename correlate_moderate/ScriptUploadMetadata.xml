@@ -14,9 +14,13 @@
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="LrwiAedScript.xml" Filter="2" />
     <FileEntry Name="Watches.xml" Filter="2" />
+    <FileEntry Name="combined_correlate_moderate.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="correlate_moderate.c.pickle" Filter="1" />
+    <FileEntry Name="correlate_moderate.ci" Filter="1" />
     <FileEntry Name="custom_body_variables.txt" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />

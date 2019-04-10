@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\demo\Documents\VuGen\Scripts\correlate_moderate_final
+-IC:\Users\demo\Documents\VuGen\Scripts\VuGen-correlation-examples\correlate_moderate
 -IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\demo\documents\vugen\scripts\correlate_moderate_final\\logfile.log
-c:\users\demo\documents\vugen\scripts\correlate_moderate_final\\combined_correlate_moderate_final.c
-c:\users\demo\documents\vugen\scripts\correlate_moderate_final\\pre_cci.c
+-ec:\users\demo\documents\vugen\scripts\vugen-correlation-examples\correlate_moderate\\logfile.log
+c:\users\demo\documents\vugen\scripts\vugen-correlation-examples\correlate_moderate\\combined_correlate_moderate.c
+c:\users\demo\documents\vugen\scripts\vugen-correlation-examples\correlate_moderate\\pre_cci.c
