@@ -1,4 +1,4 @@
-# VuGen-correlation-examples
+# vugen-correlation-examples
 This repository contains two VuGen scripts, which contain correlations of increasing complexity.
 
 The first script, correlation_moderate, contains 3 correlations.
