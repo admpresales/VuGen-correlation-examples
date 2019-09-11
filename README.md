@@ -15,7 +15,7 @@ The third correlation, for c_status is quite complicated. The status for 20 flig
 
 This third correlation requires a moderate understanding of C and use of the standard library to manipulate strings.
 
-## Script 3: correlation_advanced
+## Script 2: correlation_advanced
 The second script, correlation_advanced, contains 2 correlations.
 
 The first correlation is relatively simple, and correlations two field names, as opposed to field values.
